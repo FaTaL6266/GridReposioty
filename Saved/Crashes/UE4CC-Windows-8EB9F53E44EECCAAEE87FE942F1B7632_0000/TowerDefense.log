@@ -1,0 +1,1518 @@
+﻿Log file open, 04/07/20 15:53:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TowerDefense
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.060355
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: Radeon RX Vega
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Programs/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Engine.ini]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Engine.ini]
+[2020.04.07-19.53.14:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Engine.ini]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Engine.ini]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.07-19.53.14:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Engine.ini]
+[2020.04.07-19.53.14:761][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Engine.ini]
+[2020.04.07-19.53.14:768][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.07-19.53.14:768][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.07-19.53.14:768][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.07-19.53.14:768][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.07-19.53.14:768][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.07-19.53.14:768][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.07-19.53.14:768][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.07-19.53.14:768][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.07-19.53.14:769][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.07-19.53.14:770][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.07-19.53.14:770][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.07-19.53.14:772][  0]LogHAL: Display: Platform has ~ 32 GB [34308112384 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.07-19.53.14:772][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.07-19.53.14:772][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.07-19.53.14:772][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.07-19.53.14:773][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal_Projects/GridReposioty/Saved/Config/Windows/Engine.ini]
+[2020.04.07-19.53.14:773][  0]LogInit: Computer: DESKTOP-JDOC3OC
+[2020.04.07-19.53.14:773][  0]LogInit: User: Sam
+[2020.04.07-19.53.14:774][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.07-19.53.14:774][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.07-19.53.14:774][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2020.04.07-19.53.14:774][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.07-19.53.14:774][  0]LogMemory: Process Physical Memory: 106.30 MB used, 106.30 MB peak
+[2020.04.07-19.53.14:774][  0]LogMemory: Process Virtual Memory: 101.61 MB used, 101.61 MB peak
+[2020.04.07-19.53.14:774][  0]LogMemory: Physical Memory: 9261.67 MB used,  23457.10 MB free, 32718.77 MB total
+[2020.04.07-19.53.14:774][  0]LogMemory: Virtual Memory: 5159.87 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.04.07-19.53.14:776][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.07-19.53.14:789][  0]LogInit: Using OS detected language (en-US).
+[2020.04.07-19.53.14:789][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.07-19.53.14:790][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.07-19.53.14:931][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.07-19.53.14:965][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.07-19.53.14:965][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.07-19.53.15:145][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.07-19.53.15:145][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.07-19.53.15:145][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.07-19.53.15:145][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.07-19.53.15:172][  0]LogD3D11RHI:    0. 'Radeon RX Vega' (Feature Level 11_0)
+[2020.04.07-19.53.15:172][  0]LogD3D11RHI:       8119/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2020.04.07-19.53.15:174][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.07-19.53.15:174][  0]LogD3D11RHI:       0/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.07-19.53.15:174][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.07-19.53.15:181][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.07-19.53.15:181][  0]LogD3D11RHI:     GPU DeviceId: 0x687f (for the marketing name, search the web for "GPU Device Id")
+[2020.04.07-19.53.15:181][  0]LogWindows: EnumDisplayDevices:
+[2020.04.07-19.53.15:181][  0]LogWindows:    0. 'Radeon RX Vega' (P:0 D:1)
+[2020.04.07-19.53.15:181][  0]LogWindows:    1. 'Radeon RX Vega' (P:1 D:1)
+[2020.04.07-19.53.15:182][  0]LogWindows:    2. 'Radeon RX Vega' (P:0 D:0)
+[2020.04.07-19.53.15:182][  0]LogWindows:    3. 'Radeon RX Vega' (P:0 D:0)
+[2020.04.07-19.53.15:182][  0]LogWindows:    4. 'Radeon RX Vega' (P:0 D:0)
+[2020.04.07-19.53.15:182][  0]LogWindows:    5. 'Radeon RX Vega' (P:0 D:0)
+[2020.04.07-19.53.15:183][  0]LogWindows:    6. 'Radeon RX Vega' (P:0 D:0)
+[2020.04.07-19.53.15:183][  0]LogWindows:    7. 'Radeon RX Vega' (P:0 D:0)
+[2020.04.07-19.53.15:183][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2020.04.07-19.53.15:183][  0]LogD3D11RHI:     Adapter Name: Radeon RX Vega
+[2020.04.07-19.53.15:183][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.3.1 (internal:26.20.15029.15007, unified:26.20.15029.15007)
+[2020.04.07-19.53.15:183][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.04.07-19.53.15:183][  0]LogRHI: Texture pool is 5683 MB (70% of 8119 MB)
+[2020.04.07-19.53.15:232][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.04.07-19.53.15:232][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.07-19.53.15:243][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2020.04.07-19.53.15:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.07-19.53.15:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.07-19.53.15:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.07-19.53.15:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.07-19.53.15:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.07-19.53.15:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.07-19.53.15:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.07-19.53.15:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.07-19.53.15:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.07-19.53.15:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.07-19.53.15:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.07-19.53.15:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.07-19.53.15:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.07-19.53.15:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.07-19.53.15:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.07-19.53.15:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.07-19.53.15:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.07-19.53.15:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.07-19.53.15:610][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.07-19.53.15:612][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.07-19.53.15:629][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../Unreal_Projects/GridReposioty/Intermediate/Shaders/WorkingDirectory/2672/).
+[2020.04.07-19.53.15:629][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Sam/AppData/Local/Temp/UnrealShaderWorkingDir/007E78EE4F6F701E69917A97C2A8E933/'.
+[2020.04.07-19.53.15:629][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.07-19.53.15:629][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.07-19.53.15:629][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.07-19.53.16:254][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.07-19.53.16:294][  0]LogDerivedDataCache: Loaded boot cache 0.04s 78MB C:/Users/Sam/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.07-19.53.16:294][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Sam/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.07-19.53.16:294][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal_Projects/GridReposioty/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.07-19.53.16:295][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.07-19.53.16:295][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal_Projects/GridReposioty/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.07-19.53.16:295][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.07-19.53.16:304][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.07-19.53.16:304][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.07-19.53.16:304][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.07-19.53.16:305][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Sam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.07-19.53.16:305][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.07-19.53.16:305][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.07-19.53.16:328][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.07-19.53.16:330][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.07-19.53.16:331][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.07-19.53.16:383][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2020.04.07-19.53.16:627][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.07-19.53.16:752][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.07-19.53.16:752][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.07-19.53.16:752][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.07-19.53.16:752][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.07-19.53.16:752][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.07-19.53.16:765][  0]LogNetVersion: TowerDefense 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 509881650)
+[2020.04.07-19.53.17:698][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.038262 seconds
+[2020.04.07-19.53.17:704][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.07-19.53.17:704][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.07-19.53.17:704][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.07-19.53.18:042][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.07-19.53.18:044][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.07-19.53.18:091][  0]SourceControl: Source control is disabled
+[2020.04.07-19.53.18:091][  0]SourceControl: Source control is disabled
+[2020.04.07-19.53.18:091][  0]SourceControl: Source control is disabled
+[2020.04.07-19.53.18:092][  0]SourceControl: Source control is disabled
+[2020.04.07-19.53.18:093][  0]SourceControl: Source control is disabled
+[2020.04.07-19.53.18:160][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.07-19.53.18:168][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.07-19.53.18:169][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.07-19.53.18:242][  0]LogOcInput: OculusInput pre-init called
+[2020.04.07-19.53.18:248][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.07-19.53.18:248][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.07-19.53.18:308][  0]LogEngine: Initializing Engine...
+[2020.04.07-19.53.18:309][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.07-19.53.18:310][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.07-19.53.18:595][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.07-19.53.18:601][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.07-19.53.18:622][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-19.53.18:622][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-19.53.18:622][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-19.53.18:622][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-19.53.18:622][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-19.53.18:622][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-19.53.18:622][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-19.53.18:622][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-19.53.18:622][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-19.53.18:622][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-19.53.18:655][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-19.53.18:655][  0]LogAudioMixer: Display: Name: RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-19.53.18:655][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-19.53.18:655][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-19.53.18:655][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-19.53.18:655][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-19.53.18:655][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.07-19.53.18:655][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-19.53.18:655][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-19.53.18:673][  0]LogAudioMixer: Display: Using Audio Device RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-19.53.18:676][  0]LogInit: FAudioDevice initialized.
+[2020.04.07-19.53.18:676][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.07-19.53.18:721][  0]LogDerivedDataCache: Saved boot cache 0.05s 78MB C:/Users/Sam/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.07-19.53.18:721][  0]LogInit: Texture streaming: Enabled
+[2020.04.07-19.53.18:732][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.07-19.53.18:733][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.07-19.53.18:735][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.07-19.53.18:783][  0]LogInit: Transaction tracking system initialized
+[2020.04.07-19.53.18:791][  0]BlueprintLog: New page: Editor Load
+[2020.04.07-19.53.18:815][  0]LocalizationService: Localization service is disabled
+[2020.04.07-19.53.18:846][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.04.07-19.53.18:846][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.04.07-19.53.18:846][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2020.04.07-19.53.19:045][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_Projects/GridReposioty/Content/' took 0.00s
+[2020.04.07-19.53.19:045][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.07-19.53.19:046][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.07-19.53.19:687][  0]SourceControl: Source control is disabled
+[2020.04.07-19.53.19:688][  0]Cmd: MAP LOAD FILE="../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.07-19.53.19:688][  0]LightingResults: New page: Lighting Build
+[2020.04.07-19.53.19:688][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-19.53.19:688][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-19.53.19:688][  0]MapCheck: New page: Map Check
+[2020.04.07-19.53.19:688][  0]LightingResults: New page: Lighting Build
+[2020.04.07-19.53.19:715][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.04.07-19.53.19:736][  0]LogDataTable: Error: Missing RowStruct while emptying DataTable '/Game/Blueprints/Enemies/Data_Enemy.Data_Enemy'!
+[2020.04.07-19.53.19:736][  0]LogDataTable: Error: Missing RowStruct while loading DataTable '/Game/Blueprints/Enemies/Data_Enemy.Data_Enemy'!
+[2020.04.07-19.53.19:781][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/MAW_MAT': Can't find file.
+[2020.04.07-19.53.19:781][  0]LoadErrors: Failed to load /Game/Assets/Enemies/Beast_Model/Beast_Walking.Beast_Walking Referenced by CharacterMesh0
+[2020.04.07-19.53.19:781][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/MAW_MAT': Can't find file.
+[2020.04.07-19.53.19:781][  0]LoadErrors: Failed to load /Game/Assets/Enemies/Beast_Model/Beast_Walking.Beast_Walking Referenced by CharacterMesh0
+[2020.04.07-19.53.19:781][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/Beast_Walking_PhysicsAsset': Can't find file.
+[2020.04.07-19.53.19:781][  0]LoadErrors: Failed to load /Game/Assets/Enemies/Beast_Model/Beast_Walking.Beast_Walking Referenced by CharacterMesh0
+[2020.04.07-19.53.19:781][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/Beast_Walking_PhysicsAsset': Can't find file.
+[2020.04.07-19.53.19:782][  0]LoadErrors: Failed to load /Game/Assets/Enemies/Beast_Model/Beast_Walking.Beast_Walking Referenced by CharacterMesh0
+[2020.04.07-19.53.19:782][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/Beast_Walking_Skeleton': Can't find file.
+[2020.04.07-19.53.19:782][  0]LoadErrors: Failed to load /Game/Assets/Enemies/Beast_Model/Beast_Walking.Beast_Walking Referenced by CharacterMesh0
+[2020.04.07-19.53.19:782][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/Beast_Walking_Skeleton': Can't find file.
+[2020.04.07-19.53.19:782][  0]LoadErrors: Failed to load /Game/Assets/Enemies/Beast_Model/Beast_Walking.Beast_Walking Referenced by CharacterMesh0
+[2020.04.07-19.53.19:782][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/MAW_MAT': Can't find file.
+[2020.04.07-19.53.19:782][  0]LoadErrors: Failed to load /Game/Assets/Enemies/Beast_Model/Beast_Walking.Beast_Walking Referenced by CharacterMesh0
+[2020.04.07-19.53.19:782][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/MAW_MAT': Can't find file.
+[2020.04.07-19.53.19:782][  0]LoadErrors: Failed to load /Game/Assets/Enemies/Beast_Model/Beast_Walking.Beast_Walking Referenced by CharacterMesh0
+[2020.04.07-19.53.19:782][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/Beast_Walking_PhysicsAsset': Can't find file.
+[2020.04.07-19.53.19:782][  0]LoadErrors: Failed to load /Game/Assets/Enemies/Beast_Model/Beast_Walking.Beast_Walking Referenced by CharacterMesh0
+[2020.04.07-19.53.19:782][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/Beast_Walking_PhysicsAsset': Can't find file.
+[2020.04.07-19.53.19:782][  0]LoadErrors: Failed to load /Game/Assets/Enemies/Beast_Model/Beast_Walking.Beast_Walking Referenced by CharacterMesh0
+[2020.04.07-19.53.19:782][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/Beast_Walking_Skeleton': Can't find file.
+[2020.04.07-19.53.19:782][  0]LoadErrors: Failed to load /Game/Assets/Enemies/Beast_Model/Beast_Walking.Beast_Walking Referenced by CharacterMesh0
+[2020.04.07-19.53.19:782][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/Beast_Walking_Skeleton': Can't find file.
+[2020.04.07-19.53.19:782][  0]LoadErrors: Failed to load /Game/Assets/Enemies/Beast_Model/Beast_Walking.Beast_Walking Referenced by CharacterMesh0
+[2020.04.07-19.53.20:070][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/Beast_Walking_Skeleton': Can't find file.
+[2020.04.07-19.53.20:070][  0]LoadErrors: Failed to load /Game/AI/Beast_Model/Beast_Walking_Skeleton.Beast_Walking_Skeleton Referenced by Beast_Walking
+[2020.04.07-19.53.20:070][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/Beast_Walking_Skeleton': Can't find file.
+[2020.04.07-19.53.20:070][  0]LoadErrors: Failed to load /Game/AI/Beast_Model/Beast_Walking_Skeleton.Beast_Walking_Skeleton Referenced by Beast_Walking
+[2020.04.07-19.53.20:070][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/Beast_Walking_PhysicsAsset': Can't find file.
+[2020.04.07-19.53.20:070][  0]LoadErrors: Failed to load /Game/AI/Beast_Model/Beast_Walking_PhysicsAsset.Beast_Walking_PhysicsAsset Referenced by Beast_Walking
+[2020.04.07-19.53.20:070][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/Beast_Walking_PhysicsAsset': Can't find file.
+[2020.04.07-19.53.20:070][  0]LoadErrors: Failed to load /Game/AI/Beast_Model/Beast_Walking_PhysicsAsset.Beast_Walking_PhysicsAsset Referenced by Beast_Walking
+[2020.04.07-19.53.20:071][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/MAW_MAT': Can't find file.
+[2020.04.07-19.53.20:071][  0]LoadErrors: Failed to load /Game/AI/Beast_Model/MAW_MAT.MAW_MAT Referenced by Beast_Walking
+[2020.04.07-19.53.20:071][  0]LogLinker: Warning: While loading '../../../../../Unreal_Projects/GridReposioty/Content/Assets/Enemies/Beast_Model/Beast_Walking.uasset' failed to load '/Game/AI/Beast_Model/MAW_MAT': Can't find file.
+[2020.04.07-19.53.20:071][  0]LoadErrors: Failed to load /Game/AI/Beast_Model/MAW_MAT.MAW_MAT Referenced by Beast_Walking
+[2020.04.07-19.53.20:117][  0]LogAIModule: Creating AISystem for world PatfindingLevel
+[2020.04.07-19.53.20:124][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.07-19.53.20:155][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.04.07-19.53.20:155][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.07-19.53.20:155][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2020.04.07-19.53.20:155][  0]LogFileHelpers: Loading map 'PatfindingLevel' took 0.468
+[2020.04.07-19.53.20:278][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-19.53.20:284][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-19.53.20:289][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-19.53.20:294][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-19.53.20:298][  0]LogCollectionManager: Loaded 0 collections in 0.000871 seconds
+[2020.04.07-19.53.20:310][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_Projects/GridReposioty/Saved/Collections/' took 0.00s
+[2020.04.07-19.53.20:310][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_Projects/GridReposioty/Content/Developers/Sam/Collections/' took 0.00s
+[2020.04.07-19.53.20:310][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_Projects/GridReposioty/Content/Collections/' took 0.00s
+[2020.04.07-19.53.20:310][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 3015 classes and 717 folders.
+[2020.04.07-19.53.20:312][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.07-19.53.20:373][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.07-19.53.20:377][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.04.07-19.53.20:415][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.07-19.53.20:418][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.07-19.53.20:421][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.07-19.53.20:482][  0]LogRenderer: Reallocating scene render targets to support 1268x644 Format 10 NumSamples 1 (Frame:1).
+[2020.04.07-19.53.20:646][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.07-19.53.20:646][  0]LogLoad: (Engine Initialization) Total time: 7.27 seconds
+[2020.04.07-19.53.20:646][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.07-19.53.20:684][  0]LogAssetRegistry: Asset discovery search completed in 4.3013 seconds
+[2020.04.07-19.53.20:687][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2020.04.07-19.53.20:687][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.07-19.53.20:757][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.07-19.53.21:677][106]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.07-19.53.25:214][488]LogSlate: Window 'Message Log' being destroyed
+[2020.04.07-19.53.25:218][488]LogSlate: Window 'Message Log' being destroyed
+[2020.04.07-19.53.54:583][756]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Controllers/BP_Pawn.BP_Pawn
+[2020.04.07-19.53.54:699][756]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.04.07-19.53.56:969][927]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-19.53.56:969][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-19.53.57:020][927]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Controllers/BP_Pawn.BP_Pawn
+[2020.04.07-19.53.57:295][927]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.07-19.53.59:717][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controllers/BP_Pawn" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Controllers/BP_Pawn.uasset" SILENT=true
+[2020.04.07-19.53.59:733][206]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/BP_PawnC4D151E342EFD288BD85A482F774636D.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Controllers/BP_Pawn.uasset'
+[2020.04.07-19.53.59:745][206]AssetCheck: New page: Asset Save: BP_Pawn
+[2020.04.07-19.53.59:745][206]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Controllers/BP_Pawn.BP_Pawn
+[2020.04.07-19.54.01:818][452]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-19.54.01:818][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-19.54.11:926][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.04.07-19.54.13:167][ 15]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.07-19.54.13:263][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.04.07-19.54.13:297][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.04.07-19.54.13:321][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.07-19.54.29:982][  4]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Controllers/BP_PlayerController.BP_PlayerController
+[2020.04.07-19.54.30:282][  5]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.07-19.54.40:921][452]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Controllers/GM_TowerDefense.GM_TowerDefense
+[2020.04.07-19.55.14:201][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controllers/GM_TowerDefense" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Controllers/GM_TowerDefense.uasset" SILENT=true
+[2020.04.07-19.55.14:220][572]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/GM_TowerDefenseA35D9A8F4A97D3FFBACCA59F342AABF9.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Controllers/GM_TowerDefense.uasset'
+[2020.04.07-19.55.14:231][572]AssetCheck: New page: Asset Save: GM_TowerDefense
+[2020.04.07-19.55.14:231][572]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Controllers/GM_TowerDefense.GM_TowerDefense
+[2020.04.07-19.55.14:628][619]BlueprintLog: New page: Compile GM_TowerDefense
+[2020.04.07-19.55.14:842][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.04.07-19.55.25:584][197]LogLinker: Warning: Failed to load '/Game/Blueprints/Controllers/TowerDefenseGameMode': Can't find file.
+[2020.04.07-19.55.25:584][197]LogLinker: Warning: Failed to load '/Game/Blueprints/Controllers/TowerDefenseGameMode': Can't find file.
+[2020.04.07-19.55.25:584][197]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Controllers/TowerDefenseGameMode.TowerDefenseGameMode_C'
+[2020.04.07-19.55.29:640][366]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.07-19.55.36:926][201]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.07-19.55.36:929][201]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.07-19.55.41:885][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PatfindingLevel" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.07-19.55.41:933][585]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.04.07-19.55.41:955][585]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/PatfindingLevel5C337BF846C115ECE3CC7A942B85684F.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap'
+[2020.04.07-19.55.41:978][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PatfindingLevel_BuiltData" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel_BuiltData.uasset" SILENT=true
+[2020.04.07-19.55.41:992][585]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/PatfindingLevel_BuiltData06A45900407933EC0D941DB389F5273F.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel_BuiltData.uasset'
+[2020.04.07-19.55.42:009][585]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.07-19.55.42:009][585]LogContentValidation: Display: Validating World /Game/Maps/PatfindingLevel.PatfindingLevel
+[2020.04.07-19.55.42:009][585]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PatfindingLevel_BuiltData.PatfindingLevel_BuiltData
+[2020.04.07-19.55.42:867][677]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.07-19.55.42:886][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.07-19.55.42:886][677]PIE: New page: PIE session: PatfindingLevel (Apr 7, 2020, 11:55:42 AM)
+[2020.04.07-19.55.42:887][677]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.07-19.55.42:888][677]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.07-19.55.42:888][677]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PatfindingLevel
+[2020.04.07-19.55.42:891][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002991s)
+[2020.04.07-19.55.42:892][677]LogAIModule: Creating AISystem for world PatfindingLevel
+[2020.04.07-19.55.42:892][677]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2020.04.07-19.55.42:892][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PatfindingLevel.PatfindingLevel to /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel (0.003880s)
+[2020.04.07-19.55.42:927][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.04.07-19.55.42:928][677]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-19.55.42:928][677]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-19.55.42:928][677]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-19.55.42:928][677]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-19.55.42:928][677]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-19.55.42:928][677]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-19.55.42:928][677]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-19.55.42:928][677]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-19.55.42:928][677]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-19.55.42:928][677]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-19.55.42:956][677]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-19.55.42:956][677]LogAudioMixer: Display: Name: RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-19.55.42:956][677]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-19.55.42:956][677]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-19.55.42:956][677]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-19.55.42:956][677]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-19.55.42:956][677]LogAudioMixer: Display: Channel Order:
+[2020.04.07-19.55.42:956][677]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-19.55.42:956][677]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-19.55.42:968][677]LogAudioMixer: Display: Using Audio Device RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-19.55.42:970][677]LogInit: FAudioDevice initialized.
+[2020.04.07-19.55.42:980][677]LogLoad: Game class is 'GM_TowerDefense_C'
+[2020.04.07-19.55.42:981][677]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel up for play (max tick rate 0) at 2020.04.07-15.55.42
+[2020.04.07-19.55.42:982][677]LogWorld: Bringing up level for play took: 0.000853
+[2020.04.07-19.55.42:982][677]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.04.07-19.55.42:984][677]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.04.07-19.55.43:021][677]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PatfindingLevel -0.152
+[2020.04.07-19.55.43:317][679]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.43:317][679]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.43:523][683]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.43:523][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.43:523][683]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.43:523][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.43:548][684]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.43:548][684]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.43:548][684]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.43:548][684]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.43:592][686]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.43:593][686]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.43:593][686]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.43:593][686]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.43:841][698]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.43:841][698]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.43:841][698]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.43:841][698]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.43:923][702]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.43:923][702]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.43:923][702]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.43:923][702]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.43:983][705]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.43:983][705]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.43:983][705]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.43:983][705]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.44:049][708]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.44:049][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.44:049][708]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.44:049][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.44:152][713]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.44:152][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.44:152][713]LogScript: Warning: Accessed None trying to read property PlayerController
+	BP_Grid_C /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel:PersistentLevel.BP_Grid_2
+	Function /Game/Blueprints/Grid/BP_Grid.BP_Grid_C:ExecuteUbergraph_BP_Grid:1A57
+[2020.04.07-19.55.44:152][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.44:488][730]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.44:488][730]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.45:101][761]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.45:101][761]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.45:200][766]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.45:200][766]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.45:239][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.45:239][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.45:416][777]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.45:416][777]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.46:088][811]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.46:088][811]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.46:109][812]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.46:109][812]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.46:129][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.46:129][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.46:149][814]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.46:149][814]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.46:168][815]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.46:169][815]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.46:227][818]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.46:537][835]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-19.55.46:537][835]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-19.55.46:537][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-19.55.46:537][835]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PatfindingLevel
+[2020.04.07-19.55.46:537][835]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-19.55.46:540][835]LogWorld: UWorld::CleanupWorld for PatfindingLevel, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-19.55.46:541][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-19.55.46:558][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.07-19.55.46:564][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-19.55.46:596][835]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-19.55.46:599][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-19.55.46:643][835]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2020.04.07-19.55.46:737][836]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.04.07-19.55.48:173][971]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.07-19.55.49:518][ 66]LogSlate: Window 'Message Log' being destroyed
+[2020.04.07-19.55.49:521][ 66]LogSlate: Window 'Message Log' being destroyed
+[2020.04.07-19.55.56:005][833]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.07-19.55.56:026][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.07-19.55.56:026][833]PIE: New page: PIE session: PatfindingLevel (Apr 7, 2020, 11:55:56 AM)
+[2020.04.07-19.55.56:026][833]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PatfindingLevel
+[2020.04.07-19.55.56:029][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003018s)
+[2020.04.07-19.55.56:030][833]LogAIModule: Creating AISystem for world PatfindingLevel
+[2020.04.07-19.55.56:030][833]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2020.04.07-19.55.56:030][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PatfindingLevel.PatfindingLevel to /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel (0.003908s)
+[2020.04.07-19.55.56:084][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.04.07-19.55.56:085][833]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-19.55.56:085][833]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-19.55.56:085][833]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-19.55.56:085][833]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-19.55.56:085][833]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-19.55.56:085][833]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-19.55.56:085][833]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-19.55.56:085][833]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-19.55.56:085][833]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-19.55.56:085][833]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-19.55.56:114][833]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-19.55.56:114][833]LogAudioMixer: Display: Name: RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-19.55.56:114][833]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-19.55.56:114][833]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-19.55.56:114][833]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-19.55.56:114][833]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-19.55.56:114][833]LogAudioMixer: Display: Channel Order:
+[2020.04.07-19.55.56:114][833]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-19.55.56:114][833]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-19.55.56:127][833]LogAudioMixer: Display: Using Audio Device RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-19.55.56:128][833]LogInit: FAudioDevice initialized.
+[2020.04.07-19.55.56:139][833]LogLoad: Game class is 'GM_TowerDefense_C'
+[2020.04.07-19.55.56:140][833]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel up for play (max tick rate 0) at 2020.04.07-15.55.56
+[2020.04.07-19.55.56:140][833]LogWorld: Bringing up level for play took: 0.000880
+[2020.04.07-19.55.56:140][833]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.04.07-19.55.56:181][833]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PatfindingLevel 1.008
+[2020.04.07-19.55.56:227][835]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.56:250][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.56:250][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.56:370][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.56:370][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.56:884][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.56:884][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.56:924][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.56:924][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.56:945][864]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.56:945][864]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.56:966][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.56:966][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.57:049][869]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.57:049][869]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.57:667][900]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.57:667][900]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.57:706][902]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.57:706][902]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.57:844][909]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.57:844][909]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.57:942][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.57:942][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.57:962][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.57:963][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:020][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:021][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:059][920]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:059][920]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:098][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:098][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:156][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:157][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:177][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:177][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:197][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:197][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:216][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:217][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:236][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:236][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:256][930]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:256][930]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:415][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerController". Blueprint:  BP_Grid Function:  Execute Ubergraph BP Grid Graph:  EventGraph Node:  Branch
+[2020.04.07-19.55.58:851][959]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-19.55.58:851][959]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-19.55.58:851][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-19.55.58:851][959]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PatfindingLevel
+[2020.04.07-19.55.58:852][959]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-19.55.58:854][959]LogWorld: UWorld::CleanupWorld for PatfindingLevel, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-19.55.58:855][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-19.55.58:872][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.07-19.55.58:877][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-19.55.58:908][959]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-19.55.58:910][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-19.55.58:918][959]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.04.07-19.55.58:997][960]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.04.07-19.56.02:391][315]LogSlate: Window 'Message Log' being destroyed
+[2020.04.07-19.56.02:395][315]LogSlate: Window 'Message Log' being destroyed
+[2020.04.07-19.56.35:677][300]BlueprintLog: New page: Compile BP_Grid
+[2020.04.07-19.56.36:029][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.04.07-19.56.36:143][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.07-19.56.36:359][301]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/BP_Grid5BCE5DCA4742E2A1F37AFF9EE53D267E.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.07-19.56.36:371][301]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.07-19.56.36:371][301]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.07-19.56.37:783][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PatfindingLevel" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.07-19.56.37:823][459]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.04.07-19.56.37:844][459]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/PatfindingLevel08489106452E9CF25F4A8780D6388634.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap'
+[2020.04.07-19.56.37:868][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PatfindingLevel_BuiltData" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel_BuiltData.uasset" SILENT=true
+[2020.04.07-19.56.37:892][459]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/PatfindingLevel_BuiltDataE3C3714F478F708F6848BC845FA5F3B6.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel_BuiltData.uasset'
+[2020.04.07-19.56.37:911][459]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.07-19.56.37:911][459]LogContentValidation: Display: Validating World /Game/Maps/PatfindingLevel.PatfindingLevel
+[2020.04.07-19.56.37:911][459]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PatfindingLevel_BuiltData.PatfindingLevel_BuiltData
+[2020.04.07-19.56.38:476][519]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.07-19.56.38:497][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.07-19.56.38:497][519]PIE: New page: PIE session: PatfindingLevel (Apr 7, 2020, 11:56:38 AM)
+[2020.04.07-19.56.38:497][519]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PatfindingLevel
+[2020.04.07-19.56.38:500][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002935s)
+[2020.04.07-19.56.38:501][519]LogAIModule: Creating AISystem for world PatfindingLevel
+[2020.04.07-19.56.38:501][519]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2020.04.07-19.56.38:501][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PatfindingLevel.PatfindingLevel to /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel (0.003779s)
+[2020.04.07-19.56.38:533][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.04.07-19.56.38:534][519]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-19.56.38:534][519]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-19.56.38:534][519]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-19.56.38:534][519]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-19.56.38:534][519]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-19.56.38:534][519]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-19.56.38:534][519]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-19.56.38:534][519]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-19.56.38:534][519]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-19.56.38:534][519]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-19.56.38:562][519]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-19.56.38:562][519]LogAudioMixer: Display: Name: RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-19.56.38:562][519]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-19.56.38:562][519]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-19.56.38:562][519]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-19.56.38:562][519]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-19.56.38:562][519]LogAudioMixer: Display: Channel Order:
+[2020.04.07-19.56.38:562][519]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-19.56.38:562][519]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-19.56.38:575][519]LogAudioMixer: Display: Using Audio Device RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-19.56.38:576][519]LogInit: FAudioDevice initialized.
+[2020.04.07-19.56.38:586][519]LogLoad: Game class is 'GM_TowerDefense_C'
+[2020.04.07-19.56.38:587][519]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel up for play (max tick rate 0) at 2020.04.07-15.56.38
+[2020.04.07-19.56.38:588][519]LogWorld: Bringing up level for play took: 0.000687
+[2020.04.07-19.56.38:588][519]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.04.07-19.56.38:627][519]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PatfindingLevel -0.546
+[2020.04.07-19.56.40:721][621]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-19.56.40:721][621]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-19.56.40:722][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-19.56.40:722][621]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PatfindingLevel
+[2020.04.07-19.56.40:722][621]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-19.56.40:724][621]LogWorld: UWorld::CleanupWorld for PatfindingLevel, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-19.56.40:725][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-19.56.40:742][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.07-19.56.40:747][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-19.56.40:776][621]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-19.56.40:779][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-19.56.40:787][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.04.07-19.56.40:861][623]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.04.07-19.57.07:215][633]LogRenderer: Reallocating scene render targets to support 1356x708 Format 10 NumSamples 1 (Frame:1).
+[2020.04.07-19.57.12:722][278]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-19.57.12:722][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-19.57.15:652][617]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.07-19.57.15:652][617]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-19.57.15:652][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-19.58.49:051][795]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Controllers/CameraClamp.CameraClamp
+[2020.04.07-19.58.57:858][803]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-19.58.57:858][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-19.58.59:536][992]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Controllers/PlayerCameraPawn.PlayerCameraPawn
+[2020.04.07-19.59.05:645][496]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Controllers/BP_Pawn.BP_Pawn
+[2020.04.07-20.00.12:898][312]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.07-20.00.52:973][549]BlueprintLog: New page: Compile BP_Pawn
+[2020.04.07-20.00.53:253][549]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.04.07-20.00.53:625][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controllers/BP_Pawn" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Controllers/BP_Pawn.uasset" SILENT=true
+[2020.04.07-20.00.53:641][583]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/BP_Pawn513311DC4B0D2705B845D9B4386BCA06.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Controllers/BP_Pawn.uasset'
+[2020.04.07-20.00.53:654][583]AssetCheck: New page: Asset Save: BP_Pawn
+[2020.04.07-20.00.53:654][583]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Controllers/BP_Pawn.BP_Pawn
+[2020.04.07-20.01.20:981][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controllers/BP_Pawn" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Controllers/BP_Pawn.uasset" SILENT=true
+[2020.04.07-20.01.21:023][325]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/BP_Pawn600AC52F4C43A605321FA9898D3FEE95.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Controllers/BP_Pawn.uasset'
+[2020.04.07-20.01.21:039][325]AssetCheck: New page: Asset Save: BP_Pawn
+[2020.04.07-20.01.21:039][325]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Controllers/BP_Pawn.BP_Pawn
+[2020.04.07-20.01.21:426][356]BlueprintLog: New page: Compile BP_Pawn
+[2020.04.07-20.01.21:433][356]LogBlueprint: Error: [Compiler BP_Pawn] Can't connect pins  Player  and  Self : Player Camera Pawn Object Reference is not compatible with Self Object Reference.
+[2020.04.07-20.01.21:434][356]LogBlueprint: Error: [Compiler BP_Pawn] Can't connect pins  Self  and  Player : Self Object Reference is not compatible with Player Camera Pawn Object Reference.
+[2020.04.07-20.01.21:704][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.04.07-20.01.41:880][480]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.07-20.03.11:590][633]BlueprintLog: New page: Compile BP_Pawn
+[2020.04.07-20.03.11:810][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.04.07-20.03.12:549][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controllers/BP_Pawn" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Controllers/BP_Pawn.uasset" SILENT=true
+[2020.04.07-20.03.12:589][706]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/BP_Pawn9395060E4D16B6EE8BC7DF806DFA29A7.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Controllers/BP_Pawn.uasset'
+[2020.04.07-20.03.12:603][706]AssetCheck: New page: Asset Save: BP_Pawn
+[2020.04.07-20.03.12:603][706]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Controllers/BP_Pawn.BP_Pawn
+[2020.04.07-20.03.25:981][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controllers/BP_Pawn" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Controllers/BP_Pawn.uasset" SILENT=true
+[2020.04.07-20.03.26:021][247]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/BP_Pawn2706BBFD4766C0B1FE91D3BCA7AA897C.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Controllers/BP_Pawn.uasset'
+[2020.04.07-20.03.26:037][247]AssetCheck: New page: Asset Save: BP_Pawn
+[2020.04.07-20.03.26:037][247]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Controllers/BP_Pawn.BP_Pawn
+[2020.04.07-20.03.26:397][287]BlueprintLog: New page: Compile BP_Pawn
+[2020.04.07-20.03.26:617][287]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.04.07-20.03.28:194][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PatfindingLevel" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.07-20.03.28:226][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.04.07-20.03.28:248][457]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/PatfindingLevel2D73F4F9400DB6BD7F814C9A33CAA5B6.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap'
+[2020.04.07-20.03.28:274][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PatfindingLevel_BuiltData" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel_BuiltData.uasset" SILENT=true
+[2020.04.07-20.03.28:288][457]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/PatfindingLevel_BuiltData3EE222334EC916257B9BD3A20DF617D0.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel_BuiltData.uasset'
+[2020.04.07-20.03.28:307][457]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.07-20.03.28:307][457]LogContentValidation: Display: Validating World /Game/Maps/PatfindingLevel.PatfindingLevel
+[2020.04.07-20.03.28:307][457]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PatfindingLevel_BuiltData.PatfindingLevel_BuiltData
+[2020.04.07-20.03.28:817][511]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.07-20.03.28:832][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.07-20.03.28:832][511]PIE: New page: PIE session: PatfindingLevel (Apr 7, 2020, 12:03:28 PM)
+[2020.04.07-20.03.28:833][511]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PatfindingLevel
+[2020.04.07-20.03.28:836][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002982s)
+[2020.04.07-20.03.28:836][511]LogAIModule: Creating AISystem for world PatfindingLevel
+[2020.04.07-20.03.28:836][511]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2020.04.07-20.03.28:836][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PatfindingLevel.PatfindingLevel to /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel (0.003800s)
+[2020.04.07-20.03.28:863][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.04.07-20.03.28:864][511]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-20.03.28:864][511]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-20.03.28:864][511]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-20.03.28:864][511]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-20.03.28:864][511]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-20.03.28:864][511]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-20.03.28:864][511]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-20.03.28:864][511]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-20.03.28:864][511]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-20.03.28:864][511]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-20.03.28:892][511]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-20.03.28:892][511]LogAudioMixer: Display: Name: RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-20.03.28:892][511]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-20.03.28:892][511]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-20.03.28:892][511]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-20.03.28:892][511]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-20.03.28:892][511]LogAudioMixer: Display: Channel Order:
+[2020.04.07-20.03.28:892][511]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-20.03.28:892][511]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-20.03.28:906][511]LogAudioMixer: Display: Using Audio Device RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-20.03.28:908][511]LogInit: FAudioDevice initialized.
+[2020.04.07-20.03.28:914][511]LogLoad: Game class is 'GM_TowerDefense_C'
+[2020.04.07-20.03.28:915][511]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel up for play (max tick rate 0) at 2020.04.07-16.03.28
+[2020.04.07-20.03.28:915][511]LogWorld: Bringing up level for play took: 0.000719
+[2020.04.07-20.03.28:916][511]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.04.07-20.03.28:954][511]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PatfindingLevel -0.218
+[2020.04.07-20.03.34:152][740]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.03.34:152][740]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.03.34:152][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-20.03.34:152][740]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PatfindingLevel
+[2020.04.07-20.03.34:152][740]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.03.34:155][740]LogWorld: UWorld::CleanupWorld for PatfindingLevel, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-20.03.34:156][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-20.03.34:179][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.07-20.03.34:184][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-20.03.34:212][740]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.03.34:215][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-20.03.34:222][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.04.07-20.03.34:295][741]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.04.07-20.07.25:956][143]BlueprintLog: New page: Compile BP_Pawn
+[2020.04.07-20.07.26:173][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.04.07-20.07.26:563][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controllers/BP_Pawn" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Controllers/BP_Pawn.uasset" SILENT=true
+[2020.04.07-20.07.26:608][177]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/BP_PawnC7A0F41D4C7F437B51258D8DE89BEF17.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Controllers/BP_Pawn.uasset'
+[2020.04.07-20.07.26:622][177]AssetCheck: New page: Asset Save: BP_Pawn
+[2020.04.07-20.07.26:622][177]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Controllers/BP_Pawn.BP_Pawn
+[2020.04.07-20.07.32:778][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PatfindingLevel" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.07-20.07.32:809][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.04.07-20.07.32:830][875]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/PatfindingLevel38D586224401A233AB1F898722731E89.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap'
+[2020.04.07-20.07.32:853][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PatfindingLevel_BuiltData" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel_BuiltData.uasset" SILENT=true
+[2020.04.07-20.07.32:866][875]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/PatfindingLevel_BuiltDataAB3A5F95401D4D21FD6B13A2A0F22B9B.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel_BuiltData.uasset'
+[2020.04.07-20.07.32:883][875]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.07-20.07.32:883][875]LogContentValidation: Display: Validating World /Game/Maps/PatfindingLevel.PatfindingLevel
+[2020.04.07-20.07.32:883][875]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PatfindingLevel_BuiltData.PatfindingLevel_BuiltData
+[2020.04.07-20.07.33:420][929]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.07-20.07.33:435][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.07-20.07.33:435][929]PIE: New page: PIE session: PatfindingLevel (Apr 7, 2020, 12:07:33 PM)
+[2020.04.07-20.07.33:435][929]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PatfindingLevel
+[2020.04.07-20.07.33:438][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002972s)
+[2020.04.07-20.07.33:439][929]LogAIModule: Creating AISystem for world PatfindingLevel
+[2020.04.07-20.07.33:439][929]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2020.04.07-20.07.33:439][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PatfindingLevel.PatfindingLevel to /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel (0.003838s)
+[2020.04.07-20.07.33:469][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.04.07-20.07.33:469][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-20.07.33:469][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-20.07.33:469][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-20.07.33:469][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-20.07.33:469][929]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-20.07.33:469][929]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-20.07.33:469][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-20.07.33:469][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-20.07.33:470][929]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-20.07.33:470][929]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-20.07.33:498][929]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-20.07.33:498][929]LogAudioMixer: Display: Name: RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-20.07.33:498][929]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-20.07.33:498][929]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-20.07.33:498][929]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-20.07.33:498][929]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-20.07.33:498][929]LogAudioMixer: Display: Channel Order:
+[2020.04.07-20.07.33:498][929]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-20.07.33:498][929]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-20.07.33:512][929]LogAudioMixer: Display: Using Audio Device RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-20.07.33:513][929]LogInit: FAudioDevice initialized.
+[2020.04.07-20.07.33:522][929]LogLoad: Game class is 'GM_TowerDefense_C'
+[2020.04.07-20.07.33:523][929]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel up for play (max tick rate 0) at 2020.04.07-16.07.33
+[2020.04.07-20.07.33:523][929]LogWorld: Bringing up level for play took: 0.000773
+[2020.04.07-20.07.33:523][929]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.04.07-20.07.33:563][929]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PatfindingLevel 0.39
+[2020.04.07-20.07.35:759][ 24]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.07.35:759][ 24]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.07.35:760][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-20.07.35:760][ 24]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PatfindingLevel
+[2020.04.07-20.07.35:760][ 24]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.07.35:763][ 24]LogWorld: UWorld::CleanupWorld for PatfindingLevel, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-20.07.35:763][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-20.07.35:789][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.07-20.07.35:794][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-20.07.35:820][ 24]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.07.35:823][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-20.07.35:831][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.04.07-20.07.35:904][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.04.07-20.07.53:458][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.07-20.07.53:473][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.07-20.07.53:473][ 76]PIE: New page: PIE session: PatfindingLevel (Apr 7, 2020, 12:07:53 PM)
+[2020.04.07-20.07.53:473][ 76]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PatfindingLevel
+[2020.04.07-20.07.53:476][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003035s)
+[2020.04.07-20.07.53:477][ 76]LogAIModule: Creating AISystem for world PatfindingLevel
+[2020.04.07-20.07.53:477][ 76]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2020.04.07-20.07.53:477][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PatfindingLevel.PatfindingLevel to /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel (0.003863s)
+[2020.04.07-20.07.53:506][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.04.07-20.07.53:507][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-20.07.53:507][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-20.07.53:507][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-20.07.53:507][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-20.07.53:507][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-20.07.53:507][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-20.07.53:507][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-20.07.53:507][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-20.07.53:507][ 76]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-20.07.53:507][ 76]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-20.07.53:536][ 76]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-20.07.53:536][ 76]LogAudioMixer: Display: Name: RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-20.07.53:536][ 76]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-20.07.53:536][ 76]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-20.07.53:536][ 76]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-20.07.53:536][ 76]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-20.07.53:536][ 76]LogAudioMixer: Display: Channel Order:
+[2020.04.07-20.07.53:536][ 76]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-20.07.53:536][ 76]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-20.07.53:548][ 76]LogAudioMixer: Display: Using Audio Device RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-20.07.53:549][ 76]LogInit: FAudioDevice initialized.
+[2020.04.07-20.07.53:557][ 76]LogLoad: Game class is 'GM_TowerDefense_C'
+[2020.04.07-20.07.53:558][ 76]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel up for play (max tick rate 0) at 2020.04.07-16.07.53
+[2020.04.07-20.07.53:558][ 76]LogWorld: Bringing up level for play took: 0.000757
+[2020.04.07-20.07.53:558][ 76]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.04.07-20.07.53:597][ 76]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PatfindingLevel 0.424
+[2020.04.07-20.07.56:392][194]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.07.56:392][194]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.07.56:392][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-20.07.56:392][194]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PatfindingLevel
+[2020.04.07-20.07.56:392][194]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.07.56:395][194]LogWorld: UWorld::CleanupWorld for PatfindingLevel, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-20.07.56:395][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-20.07.56:422][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.07-20.07.56:427][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-20.07.56:457][194]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.07.56:462][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-20.07.56:469][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.04.07-20.07.56:541][195]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.04.07-20.08.18:165][728]BlueprintLog: New page: Compile BP_Grid
+[2020.04.07-20.08.18:461][728]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.04.07-20.08.18:940][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.07-20.08.19:154][774]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/BP_Grid5B227FC946F94C19313FF7B2167863AB.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.07-20.08.19:169][774]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.07-20.08.19:169][774]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.07-20.08.47:050][ 64]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Towers/TowerSelectionWidget.TowerSelectionWidget
+[2020.04.07-20.09.44:440][813]LogEditorTransaction: Undo Break Pin Links
+[2020.04.07-20.09.48:094][206]LogEditorTransaction: Redo Break Pin Links
+[2020.04.07-20.11.03:612][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/TowerSelectionWidget" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset" SILENT=true
+[2020.04.07-20.11.03:637][ 91]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/TowerSelectionWidgetF682F7444D5007D5D30405B2AA490AA3.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset'
+[2020.04.07-20.11.03:650][ 91]AssetCheck: New page: Asset Save: TowerSelectionWidget
+[2020.04.07-20.11.03:650][ 91]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Towers/TowerSelectionWidget.TowerSelectionWidget
+[2020.04.07-20.11.04:095][141]BlueprintLog: New page: Compile TowerSelectionWidget
+[2020.04.07-20.11.04:188][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.04.07-20.13.35:131][908]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.07-20.14.18:908][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/TowerSelectionWidget" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset" SILENT=true
+[2020.04.07-20.14.18:933][932]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/TowerSelectionWidgetDC87F6494D424BCDC51067A5CC03FF0B.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset'
+[2020.04.07-20.14.18:948][932]AssetCheck: New page: Asset Save: TowerSelectionWidget
+[2020.04.07-20.14.18:948][932]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Towers/TowerSelectionWidget.TowerSelectionWidget
+[2020.04.07-20.14.19:381][980]BlueprintLog: New page: Compile TowerSelectionWidget
+[2020.04.07-20.14.19:448][980]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.04.07-20.16.58:228][280]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Towers/BP_Tower.BP_Tower
+[2020.04.07-20.17.10:394][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/TowerSelectionWidget" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset" SILENT=true
+[2020.04.07-20.17.10:426][468]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/TowerSelectionWidget85DD52F04A0DAA365428E69BE7FE85CF.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset'
+[2020.04.07-20.17.10:440][468]AssetCheck: New page: Asset Save: TowerSelectionWidget
+[2020.04.07-20.17.10:440][468]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Towers/TowerSelectionWidget.TowerSelectionWidget
+[2020.04.07-20.17.10:854][512]BlueprintLog: New page: Compile TowerSelectionWidget
+[2020.04.07-20.17.10:922][512]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.04.07-20.17.12:814][698]BlueprintLog: New page: Compile BP_Grid
+[2020.04.07-20.17.13:190][698]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.04.07-20.17.13:621][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.07-20.17.13:827][739]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/BP_Grid2911DAB54130E30A4011B69D7563F547.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.07-20.17.13:843][739]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.07-20.17.13:843][739]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.07-20.18.00:548][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PatfindingLevel" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.07-20.18.00:591][972]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.04.07-20.18.00:614][972]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/PatfindingLevel18E53B294A8EA5FC41349E9BD05A331B.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap'
+[2020.04.07-20.18.00:640][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PatfindingLevel_BuiltData" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel_BuiltData.uasset" SILENT=true
+[2020.04.07-20.18.00:654][972]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/PatfindingLevel_BuiltData996206284F0A77A70C9BF1BF67276643.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel_BuiltData.uasset'
+[2020.04.07-20.18.00:671][972]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.07-20.18.00:671][972]LogContentValidation: Display: Validating World /Game/Maps/PatfindingLevel.PatfindingLevel
+[2020.04.07-20.18.00:671][972]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PatfindingLevel_BuiltData.PatfindingLevel_BuiltData
+[2020.04.07-20.18.01:909][112]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Towers/BP_BuilderTower.BP_BuilderTower
+[2020.04.07-20.20.32:286][294]BlueprintLog: New page: Compile TowerSelectionWidget
+[2020.04.07-20.20.32:363][294]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.04.07-20.20.33:438][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/TowerSelectionWidget" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset" SILENT=true
+[2020.04.07-20.20.33:471][384]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/TowerSelectionWidget4397754F4AAE6150EBD0928A2AE984BA.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset'
+[2020.04.07-20.20.33:486][384]AssetCheck: New page: Asset Save: TowerSelectionWidget
+[2020.04.07-20.20.33:486][384]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Towers/TowerSelectionWidget.TowerSelectionWidget
+[2020.04.07-20.20.56:501][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/TowerSelectionWidget" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset" SILENT=true
+[2020.04.07-20.20.56:534][538]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/TowerSelectionWidgetDE0FD1994FF952929C7DF88E1A5A7A41.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset'
+[2020.04.07-20.20.56:549][538]AssetCheck: New page: Asset Save: TowerSelectionWidget
+[2020.04.07-20.20.56:549][538]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Towers/TowerSelectionWidget.TowerSelectionWidget
+[2020.04.07-20.20.56:977][574]BlueprintLog: New page: Compile TowerSelectionWidget
+[2020.04.07-20.20.57:046][574]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.04.07-20.20.58:879][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PatfindingLevel" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.07-20.20.58:919][722]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.04.07-20.20.58:940][722]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/PatfindingLevel931EB13449A62C7B5A74F581774F1FDF.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap'
+[2020.04.07-20.20.58:965][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PatfindingLevel_BuiltData" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel_BuiltData.uasset" SILENT=true
+[2020.04.07-20.20.58:978][722]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/PatfindingLevel_BuiltData17826FE64FADB7DF25AEA08BCB3CDAF4.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel_BuiltData.uasset'
+[2020.04.07-20.20.58:996][722]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.07-20.20.58:996][722]LogContentValidation: Display: Validating World /Game/Maps/PatfindingLevel.PatfindingLevel
+[2020.04.07-20.20.58:996][722]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PatfindingLevel_BuiltData.PatfindingLevel_BuiltData
+[2020.04.07-20.20.59:720][778]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.07-20.20.59:751][778]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.07-20.20.59:776][778]LogPlayLevel: [PlayLevel] Compiling BP_BuilderTower before play...
+[2020.04.07-20.21.00:054][778]LogPlayLevel: [PlayLevel] Compiling BP_Tower before play...
+[2020.04.07-20.21.00:373][778]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.04.07-20.21.00:373][778]LogPlayLevel: PlayLevel: Blueprint regeneration took 622 ms (2 blueprints)
+[2020.04.07-20.21.00:373][778]PIE: New page: PIE session: PatfindingLevel (Apr 7, 2020, 12:21:00 PM)
+[2020.04.07-20.21.00:373][778]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PatfindingLevel
+[2020.04.07-20.21.00:376][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003001s)
+[2020.04.07-20.21.00:377][778]LogAIModule: Creating AISystem for world PatfindingLevel
+[2020.04.07-20.21.00:377][778]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2020.04.07-20.21.00:377][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PatfindingLevel.PatfindingLevel to /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel (0.003837s)
+[2020.04.07-20.21.00:416][778]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.04.07-20.21.00:416][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-20.21.00:416][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-20.21.00:416][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-20.21.00:416][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-20.21.00:416][778]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-20.21.00:416][778]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-20.21.00:416][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-20.21.00:416][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-20.21.00:416][778]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-20.21.00:416][778]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-20.21.00:444][778]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-20.21.00:444][778]LogAudioMixer: Display: Name: RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-20.21.00:444][778]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-20.21.00:445][778]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-20.21.00:445][778]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-20.21.00:445][778]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-20.21.00:445][778]LogAudioMixer: Display: Channel Order:
+[2020.04.07-20.21.00:445][778]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-20.21.00:445][778]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-20.21.00:457][778]LogAudioMixer: Display: Using Audio Device RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-20.21.00:458][778]LogInit: FAudioDevice initialized.
+[2020.04.07-20.21.00:463][778]LogLoad: Game class is 'GM_TowerDefense_C'
+[2020.04.07-20.21.00:463][778]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel up for play (max tick rate 0) at 2020.04.07-16.21.00
+[2020.04.07-20.21.00:464][778]LogWorld: Bringing up level for play took: 0.000706
+[2020.04.07-20.21.00:464][778]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.04.07-20.21.00:503][778]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PatfindingLevel 1.331
+[2020.04.07-20.21.07:295][ 57]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.21.07:295][ 57]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.21.07:295][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-20.21.07:295][ 57]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PatfindingLevel
+[2020.04.07-20.21.07:295][ 57]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.21.07:298][ 57]LogWorld: UWorld::CleanupWorld for PatfindingLevel, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-20.21.07:299][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-20.21.07:322][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.07-20.21.07:327][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-20.21.07:365][ 57]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.21.07:368][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-20.21.07:378][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.04.07-20.21.07:436][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.07-20.21.09:733][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/BP_Tower" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/BP_Tower.uasset" SILENT=true
+[2020.04.07-20.21.09:784][244]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/BP_Tower27206BA7483DA42A034D8CB0538BF0D7.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/BP_Tower.uasset'
+[2020.04.07-20.21.09:798][244]AssetCheck: New page: Asset Save: BP_Tower
+[2020.04.07-20.21.09:798][244]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Towers/BP_Tower.BP_Tower
+[2020.04.07-20.22.29:701][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/TowerSelectionWidget" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset" SILENT=true
+[2020.04.07-20.22.29:735][170]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/TowerSelectionWidget8D2F7F234F0FEEA281BCE484427A8A3C.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset'
+[2020.04.07-20.22.29:753][170]AssetCheck: New page: Asset Save: TowerSelectionWidget
+[2020.04.07-20.22.29:753][170]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Towers/TowerSelectionWidget.TowerSelectionWidget
+[2020.04.07-20.22.30:089][199]BlueprintLog: New page: Compile TowerSelectionWidget
+[2020.04.07-20.22.30:161][199]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.04.07-20.22.31:543][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PatfindingLevel" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.07-20.22.31:586][307]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.04.07-20.22.31:607][307]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/PatfindingLevel909D7AE446BFF4A2CFEBCA8955E949F8.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap'
+[2020.04.07-20.22.31:631][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PatfindingLevel_BuiltData" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel_BuiltData.uasset" SILENT=true
+[2020.04.07-20.22.31:644][307]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/PatfindingLevel_BuiltData7E39B28F43C07668E0D171B17A1FCA41.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel_BuiltData.uasset'
+[2020.04.07-20.22.31:665][307]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.07-20.22.31:665][307]LogContentValidation: Display: Validating World /Game/Maps/PatfindingLevel.PatfindingLevel
+[2020.04.07-20.22.31:666][307]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PatfindingLevel_BuiltData.PatfindingLevel_BuiltData
+[2020.04.07-20.22.32:239][349]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.07-20.22.32:270][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.07-20.22.32:270][349]PIE: New page: PIE session: PatfindingLevel (Apr 7, 2020, 12:22:32 PM)
+[2020.04.07-20.22.32:270][349]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PatfindingLevel
+[2020.04.07-20.22.32:273][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002939s)
+[2020.04.07-20.22.32:274][349]LogAIModule: Creating AISystem for world PatfindingLevel
+[2020.04.07-20.22.32:274][349]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2020.04.07-20.22.32:274][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PatfindingLevel.PatfindingLevel to /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel (0.003775s)
+[2020.04.07-20.22.32:317][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.04.07-20.22.32:318][349]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-20.22.32:318][349]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-20.22.32:318][349]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-20.22.32:318][349]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-20.22.32:318][349]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-20.22.32:318][349]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-20.22.32:318][349]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-20.22.32:318][349]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-20.22.32:318][349]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-20.22.32:318][349]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-20.22.32:346][349]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-20.22.32:347][349]LogAudioMixer: Display: Name: RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-20.22.32:347][349]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-20.22.32:347][349]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-20.22.32:347][349]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-20.22.32:347][349]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-20.22.32:347][349]LogAudioMixer: Display: Channel Order:
+[2020.04.07-20.22.32:347][349]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-20.22.32:347][349]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-20.22.32:359][349]LogAudioMixer: Display: Using Audio Device RAZER NARI ULTIMATE (Razer Nari Ultimate - Game)
+[2020.04.07-20.22.32:360][349]LogInit: FAudioDevice initialized.
+[2020.04.07-20.22.32:366][349]LogLoad: Game class is 'GM_TowerDefense_C'
+[2020.04.07-20.22.32:367][349]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PatfindingLevel.PatfindingLevel up for play (max tick rate 0) at 2020.04.07-16.22.32
+[2020.04.07-20.22.32:367][349]LogWorld: Bringing up level for play took: 0.000730
+[2020.04.07-20.22.32:367][349]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.04.07-20.22.32:406][349]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PatfindingLevel -0.767
+[2020.04.07-20.22.37:216][546]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.22.37:216][546]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.22.37:216][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-20.22.37:216][546]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PatfindingLevel
+[2020.04.07-20.22.37:216][546]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.22.37:219][546]LogWorld: UWorld::CleanupWorld for PatfindingLevel, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-20.22.37:220][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-20.22.37:243][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.07-20.22.37:249][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-20.22.37:286][546]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-20.22.37:288][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-20.22.37:297][546]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.04.07-20.22.37:355][547]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.04.07-20.24.27:774][810]BlueprintLog: New page: Compile TowerSelectionWidget
+[2020.04.07-20.24.27:850][810]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.04.07-20.24.28:310][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/TowerSelectionWidget" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset" SILENT=true
+[2020.04.07-20.24.28:343][841]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/TowerSelectionWidget81C260474C08026E5A82CBAF2DBDBDF0.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset'
+[2020.04.07-20.24.28:358][841]AssetCheck: New page: Asset Save: TowerSelectionWidget
+[2020.04.07-20.24.28:358][841]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Towers/TowerSelectionWidget.TowerSelectionWidget
+[2020.04.07-20.24.38:568][819]LogDialogs: Warning: Suppressed: Variable ButtonIsPressed is in use! Do you really want to delete it?
+[2020.04.07-20.26.15:222][271]BlueprintLog: New page: Compile TowerSelectionWidget
+[2020.04.07-20.26.15:293][271]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.04.07-20.26.17:761][480]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.04.07-20.26.18:660][480]LogSlate: Window 'Save Content' being destroyed
+[2020.04.07-20.26.18:691][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/BP_BuilderTower" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/BP_BuilderTower.uasset" SILENT=true
+[2020.04.07-20.26.18:726][480]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/BP_BuilderTower2211E0C042800C2864406DA2ADE63F88.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/BP_BuilderTower.uasset'
+[2020.04.07-20.26.18:728][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/TowerSelectionWidget" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset" SILENT=true
+[2020.04.07-20.26.18:761][480]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/TowerSelectionWidget1856446D489847B6E087678929C102FE.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset'
+[2020.04.07-20.26.18:763][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PatfindingLevel" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.07-20.26.18:801][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.04.07-20.26.18:823][480]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/PatfindingLevelC0703BAF420B2D4C7CE18C93B7ADB6DC.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Maps/PatfindingLevel.umap'
+[2020.04.07-20.26.18:850][480]LogFileHelpers: Saving map 'PatfindingLevel' took 0.086
+[2020.04.07-20.26.18:873][480]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.07-20.26.18:873][480]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Towers/BP_BuilderTower.BP_BuilderTower
+[2020.04.07-20.26.18:873][480]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Towers/TowerSelectionWidget.TowerSelectionWidget
+[2020.04.07-20.26.18:873][480]LogContentValidation: Display: Validating World /Game/Maps/PatfindingLevel.PatfindingLevel
+[2020.04.07-20.42.51:004][898]BlueprintLog: New page: Compile BP_Tower
+[2020.04.07-20.42.51:307][898]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.04.07-20.42.51:652][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/BP_Tower" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/BP_Tower.uasset" SILENT=true
+[2020.04.07-20.42.51:702][920]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/BP_Tower6C14F2FE43C508B78FA4D48EC273EFB4.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/BP_Tower.uasset'
+[2020.04.07-20.42.51:716][920]AssetCheck: New page: Asset Save: BP_Tower
+[2020.04.07-20.42.51:716][920]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Towers/BP_Tower.BP_Tower
+[2020.04.07-20.43.09:647][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/TowerSelectionWidget" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset" SILENT=true
+[2020.04.07-20.43.09:680][412]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/TowerSelectionWidget978DD61042D11F0C981E22B091F816B0.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset'
+[2020.04.07-20.43.09:698][412]AssetCheck: New page: Asset Save: TowerSelectionWidget
+[2020.04.07-20.43.09:698][412]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Towers/TowerSelectionWidget.TowerSelectionWidget
+[2020.04.07-20.43.10:055][440]BlueprintLog: New page: Compile TowerSelectionWidget
+[2020.04.07-20.43.10:126][440]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.04.07-20.43.24:017][567]BlueprintLog: New page: Compile BP_Tower
+[2020.04.07-20.43.24:037][567]LogBlueprint: Warning: [Compiler BP_Tower] Could not find a variable named "GameMode" in 'BP_Tower_C'.
+Make sure 'BP_Tower_C' has been compiled for  Get GameMode
+[2020.04.07-20.43.24:037][567]LogBlueprint: Warning: [Compiler BP_Tower] Could not find a variable named "GameMode" in 'BP_Tower_C'.
+Make sure 'BP_Tower_C' has been compiled for  Get GameMode
+[2020.04.07-20.43.24:041][567]LogBlueprint: Error: [Compiler BP_Tower] The property associated with  Game Mode  could not be found in '/Game/Blueprints/Towers/BP_Tower.BP_Tower_C'
+[2020.04.07-20.43.24:041][567]LogBlueprint: Error: [Compiler BP_Tower] The property associated with  Game Mode  could not be found in '/Game/Blueprints/Towers/BP_Tower.BP_Tower_C'
+[2020.04.07-20.43.24:326][567]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2020.04.07-20.43.24:959][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/BP_Tower" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/BP_Tower.uasset" SILENT=true
+[2020.04.07-20.43.25:013][600]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/BP_Tower300A08994C35A1EE44383C849D6908E5.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/BP_Tower.uasset'
+[2020.04.07-20.43.25:028][600]AssetCheck: New page: Asset Save: BP_Tower
+[2020.04.07-20.43.25:028][600]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Towers/BP_Tower.BP_Tower
+[2020.04.07-20.44.12:031][547]LogDialogs: Warning: Suppressed: This could break connections, do you want to search all Variable 'GameMode' instances, change its type, and recompile?
+[2020.04.07-20.44.14:172][680]BlueprintLog: New page: Compile BP_Tower
+[2020.04.07-20.44.14:191][680]LogBlueprint: Error: [Compiler BP_Tower] This blueprint (self) is not a GM_TowerDefense_C, therefore ' Target ' must have a connection.
+[2020.04.07-20.44.14:475][680]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.04.07-20.44.15:941][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/BP_Tower" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/BP_Tower.uasset" SILENT=true
+[2020.04.07-20.44.15:994][782]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/BP_TowerB96CF7444BE985435CAD79A66D4E8112.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/BP_Tower.uasset'
+[2020.04.07-20.44.16:009][782]AssetCheck: New page: Asset Save: BP_Tower
+[2020.04.07-20.44.16:009][782]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Towers/BP_Tower.BP_Tower
+[2020.04.07-20.44.23:430][347]BlueprintLog: New page: Compile BP_Tower
+[2020.04.07-20.44.23:733][347]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.04.07-20.44.24:197][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/BP_Tower" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/BP_Tower.uasset" SILENT=true
+[2020.04.07-20.44.24:251][374]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/BP_Tower9D9FA11E4901A9B60E2564A83B98FE41.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/BP_Tower.uasset'
+[2020.04.07-20.44.24:268][374]AssetCheck: New page: Asset Save: BP_Tower
+[2020.04.07-20.44.24:268][374]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Towers/BP_Tower.BP_Tower
+[2020.04.07-20.44.35:489][375]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.04.07-20.44.35:494][375]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.04.07-20.45.20:419][148]LogSlate: Window 'TowerSelectionWidget' being destroyed
+[2020.04.07-20.47.45:774][206]LogDialogs: Warning: Suppressed: Variable TowerToBuild is in use! Do you really want to delete it?
+[2020.04.07-20.48.34:903][912]LogSlate: Window 'PlayerCameraPawn' being destroyed
+[2020.04.07-20.48.34:920][912]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-20.48.34:920][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-20.50.03:713][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/TowerSelectionWidget" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset" SILENT=true
+[2020.04.07-20.50.03:738][  2]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/TowerSelectionWidget3858E9074FE814B06BE2D28A83BB1476.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset'
+[2020.04.07-20.50.03:757][  2]AssetCheck: New page: Asset Save: TowerSelectionWidget
+[2020.04.07-20.50.03:757][  2]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Towers/TowerSelectionWidget.TowerSelectionWidget
+[2020.04.07-20.50.04:110][ 41]BlueprintLog: New page: Compile TowerSelectionWidget
+[2020.04.07-20.50.04:119][ 41]LogBlueprint: Error: [Compiler TowerSelectionWidget] Pin  New Param  named NewParam doesn't match any parameters of function PlaceTower
+[2020.04.07-20.50.04:173][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.04.07-20.50.22:779][220]BlueprintLog: New page: Compile TowerSelectionWidget
+[2020.04.07-20.50.22:787][220]LogBlueprint: Error: [Compiler TowerSelectionWidget] Pin  Data  named Data doesn't match any parameters of function PlaceTower
+[2020.04.07-20.50.22:836][220]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.04.07-20.50.23:655][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/TowerSelectionWidget" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset" SILENT=true
+[2020.04.07-20.50.23:679][310]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/TowerSelectionWidget8EDF62F546F9494DAFDAF983E31AE8F5.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/TowerSelectionWidget.uasset'
+[2020.04.07-20.50.23:694][310]AssetCheck: New page: Asset Save: TowerSelectionWidget
+[2020.04.07-20.50.23:694][310]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Towers/TowerSelectionWidget.TowerSelectionWidget
+[2020.04.07-20.50.31:134][179]BlueprintLog: New page: Compile BP_Tower
+[2020.04.07-20.50.31:442][179]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.04.07-20.50.32:750][313]BlueprintLog: New page: Compile TowerSelectionWidget
+[2020.04.07-20.50.32:804][313]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.04.07-20.51.58:722][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Towers/BP_BuilderTower" FILE="../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/BP_BuilderTower.uasset" SILENT=true
+[2020.04.07-20.51.58:779][461]LogSavePackage: Moving '../../../../../Unreal_Projects/GridReposioty/Saved/BP_BuilderTower9B9DB1A84E77ADB6DC1B89B4BEB7BA6C.tmp' to '../../../../../Unreal_Projects/GridReposioty/Content/Blueprints/Towers/BP_BuilderTower.uasset'
+[2020.04.07-20.51.58:793][461]AssetCheck: New page: Asset Save: BP_BuilderTower
+[2020.04.07-20.51.58:793][461]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Towers/BP_BuilderTower.BP_BuilderTower
+[2020.04.07-20.51.59:118][497]BlueprintLog: New page: Compile BP_BuilderTower
+[2020.04.07-20.51.59:406][497]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.04.07-20.52.06:257][233]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/BP_Enemy.BP_Enemy
+[2020.04.07-20.53.04:178][700]LogEditorTransaction: Undo Rename Variable
+[2020.04.07-20.53.05:405][798]LogEditorTransaction: Undo Add Variable
+[2020.04.07-20.53.17:631][211]LogEditorTransaction: Undo Create Missing Local Variable
+[2020.04.07-20.53.20:127][466]LogEditorTransaction: Redo Create Missing Local Variable
+[2020.04.07-20.53.26:597][134]LogDialogs: Warning: Suppressed: This could break connections, do you want to search all Variable 'Grid' instances, change its type, and recompile?
+[2020.04.07-20.53.28:208][285]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.04.07-20.53.28:214][285]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.04.07-20.53.53:544][969]LogUObjectArray: Warning: Other object in slot
+[2020.04.07-20.53.53:544][969]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.07-20.53.53:558][969]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.014 s
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: 
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: Stack: 
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffd55597b39 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffd54da66ca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffd54db3fdf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffd262abd51 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffd2522977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffd251e1647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffd5623b144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffd5642dc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffd562860b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffd562646f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffd56258ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffd88804ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffd887f242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffd88807195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffd887eec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffda8785c0d USER32.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffda8785602 USER32.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffd88808699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ff74e426db0 UE4Editor.exe!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ff74e43c3ec UE4Editor.exe!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ff74e43c4ca UE4Editor.exe!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ff74e44ceae UE4Editor.exe!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ff74e44fcbe UE4Editor.exe!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffda8c47bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: [Callstack] 0x00007ffdaa72ced1 ntdll.dll!UnknownFunction []
+[2020.04.07-20.53.53:558][969]LogOutputDevice: Error: 
+[2020.04.07-20.53.53:597][969]LogStats:                SubmitErrorReport -  0.000 s
