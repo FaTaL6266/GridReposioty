@@ -1,0 +1,1080 @@
+﻿Log file open, 04/05/20 11:58:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TowerDefense
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 6.555598
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed initializing OVRPlugin 1.40.0
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UnrealEngine/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.05-15.58.15:070][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.05-15.58.15:070][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Engine.ini]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Engine.ini]
+[2020.04.05-15.58.15:085][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Engine.ini]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Engine.ini]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.05-15.58.15:085][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Engine.ini]
+[2020.04.05-15.58.15:085][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Engine.ini]
+[2020.04.05-15.58.15:158][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-15.58.15:158][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.05-15.58.15:158][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.05-15.58.15:158][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-15.58.15:158][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.05-15.58.15:158][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-15.58.15:158][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.05-15.58.15:158][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.05-15.58.15:158][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.05-15.58.15:158][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.05-15.58.15:158][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.05-15.58.15:158][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.05-15.58.15:158][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.05-15.58.15:158][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.05-15.58.15:158][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.05-15.58.15:158][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.05-15.58.15:158][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.05-15.58.15:158][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.05-15.58.15:159][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.05-15.58.15:160][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.05-15.58.15:187][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.05-15.58.15:187][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.05-15.58.15:247][  0]LogHAL: Display: Platform has ~ 16 GB [17057812480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.05-15.58.15:247][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.05-15.58.15:247][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.05-15.58.15:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.05-15.58.15:248][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Scalability.ini]
+[2020.04.05-15.58.15:248][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.05-15.58.15:249][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.05-15.58.15:249][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.05-15.58.15:249][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.05-15.58.15:276][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.05-15.58.15:276][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.05-15.58.15:276][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Config/Windows/Engine.ini]
+[2020.04.05-15.58.15:321][  0]LogInit: Computer: PREDATORHELIOS
+[2020.04.05-15.58.15:321][  0]LogInit: User: Mike
+[2020.04.05-15.58.15:321][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.05-15.58.15:321][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.05-15.58.15:321][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.05-15.58.15:321][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.05-15.58.15:321][  0]LogMemory: Process Physical Memory: 110.06 MB used, 110.07 MB peak
+[2020.04.05-15.58.15:321][  0]LogMemory: Process Virtual Memory: 105.11 MB used, 105.11 MB peak
+[2020.04.05-15.58.15:321][  0]LogMemory: Physical Memory: 13178.07 MB used,  3089.53 MB free, 16267.60 MB total
+[2020.04.05-15.58.15:321][  0]LogMemory: Virtual Memory: 5182.36 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.04.05-15.58.15:325][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.05-15.58.16:435][  0]LogInit: Using OS detected language (en-US).
+[2020.04.05-15.58.16:435][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.05-15.58.16:667][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.05-15.58.17:889][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.05-15.58.18:693][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.05-15.58.18:693][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.05-15.58.22:039][  0]LogHMD: Failed to initialize OpenVR with code 102
+[2020.04.05-15.58.22:039][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.05-15.58.22:039][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.05-15.58.22:039][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.05-15.58.22:102][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.04.05-15.58.22:102][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.05-15.58.22:117][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.04.05-15.58.22:117][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.05-15.58.22:119][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.05-15.58.22:119][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.05-15.58.22:119][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.05-15.58.22:184][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.05-15.58.22:185][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.05-15.58.22:185][  0]LogWindows: EnumDisplayDevices:
+[2020.04.05-15.58.22:185][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.04.05-15.58.22:185][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.04.05-15.58.22:185][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.04.05-15.58.22:186][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.04.05-15.58.22:186][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.04.05-15.58.22:186][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.04.05-15.58.22:186][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.04.05-15.58.22:186][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.04.05-15.58.22:186][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.04.05-15.58.22:232][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.05-15.58.22:232][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.05-15.58.22:545][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.05-15.58.23:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.05-15.58.24:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.05-15.58.24:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.05-15.58.24:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.05-15.58.24:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.05-15.58.24:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.05-15.58.24:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.05-15.58.24:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.05-15.58.24:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.05-15.58.24:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.05-15.58.24:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.05-15.58.24:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.05-15.58.24:706][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.05-15.58.24:706][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.05-15.58.24:829][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.05-15.58.24:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.05-15.58.24:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.05-15.58.24:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.05-15.58.24:990][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.05-15.58.25:244][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.05-15.58.26:505][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (C:/Users/Mike/Documents/GitHub/GridReposioty/Intermediate/Shaders/WorkingDirectory/26572/).
+[2020.04.05-15.58.26:505][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mike/AppData/Local/Temp/UnrealShaderWorkingDir/C258D15D4F6D1C94E41979B98F776923/'.
+[2020.04.05-15.58.26:558][  0]LogXGEController: Cleaning working directory: C:/Users/Mike/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.05-15.58.26:558][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.05-15.58.26:559][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.05-15.58.26:559][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.05-15.58.32:383][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.05-15.58.32:855][  0]LogDerivedDataCache: Loaded boot cache 0.47s 81MB C:/Users/Mike/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.05-15.58.32:855][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mike/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.05-15.58.32:855][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Mike/Documents/GitHub/GridReposioty/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.05-15.58.32:855][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.05-15.58.32:855][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Mike/Documents/GitHub/GridReposioty/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.05-15.58.32:855][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.05-15.58.33:015][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.05-15.58.33:015][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.05-15.58.33:015][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.05-15.58.33:017][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mike/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.05-15.58.33:017][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.05-15.58.33:017][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.05-15.58.33:210][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.05-15.58.33:304][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.05-15.58.33:560][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.05-15.58.34:938][  0]LogAssetRegistry: FAssetRegistry took 0.0305 seconds to start up
+[2020.04.05-15.58.41:801][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.05-15.58.44:361][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.05-15.58.44:362][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.05-15.58.44:362][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.05-15.58.44:362][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.05-15.58.44:362][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.05-15.58.44:876][  0]LogNetVersion: TowerDefense 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 509881650)
+[2020.04.05-15.59.04:101][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.136575 seconds
+[2020.04.05-15.59.04:159][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.05-15.59.04:159][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.05-15.59.04:159][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.05-15.59.11:816][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.05-15.59.11:911][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.05-15.59.13:252][  0]SourceControl: Source control is disabled
+[2020.04.05-15.59.13:268][  0]SourceControl: Source control is disabled
+[2020.04.05-15.59.13:397][  0]SourceControl: Source control is disabled
+[2020.04.05-15.59.13:446][  0]SourceControl: Source control is disabled
+[2020.04.05-15.59.13:493][  0]SourceControl: Source control is disabled
+[2020.04.05-15.59.16:067][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.05-15.59.16:369][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.05-15.59.16:370][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.05-15.59.17:337][  0]LogOcInput: OculusInput pre-init called
+[2020.04.05-15.59.22:060][  0]LogAutomationTest: Warning: Smoke tests took > 2s to run: 2.14s
+[2020.04.05-15.59.22:231][  0]LogEngine: Initializing Engine...
+[2020.04.05-15.59.22:295][  0]LogHMD: Failed to initialize OpenVR with code 102
+[2020.04.05-15.59.22:386][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.033 s
+[2020.04.05-15.59.23:903][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.05-15.59.24:958][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.05-15.59.25:224][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-15.59.25:224][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-15.59.25:224][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-15.59.25:224][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-15.59.25:224][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-15.59.25:224][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-15.59.25:224][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-15.59.25:251][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-15.59.25:256][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-15.59.25:256][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-15.59.25:359][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-15.59.25:360][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.04.05-15.59.25:360][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-15.59.25:360][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-15.59.25:360][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.05-15.59.25:360][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.05-15.59.25:360][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.05-15.59.25:360][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-15.59.25:360][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-15.59.25:407][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.04.05-15.59.25:433][  0]LogInit: FAudioDevice initialized.
+[2020.04.05-15.59.25:457][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.05-15.59.25:647][  0]LogDerivedDataCache: Saved boot cache 0.19s 81MB C:/Users/Mike/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.05-15.59.25:651][  0]LogInit: Texture streaming: Enabled
+[2020.04.05-15.59.25:867][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.05-15.59.25:867][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.05-15.59.25:898][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.05-15.59.26:777][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.879 s
+[2020.04.05-15.59.26:777][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: 
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: Ensure condition failed: IsLocked() [File:D:/Build/++UE4/Sync/Engine/Source/Developer/EditorAnalyticsSession/Private/EditorAnalyticsSession.cpp] [Line: 279]
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: 
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: Stack: 
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: [Callstack] 0x00007ff905c2e629 UE4Editor-EditorAnalyticsSession.dll!UnknownFunction []
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: [Callstack] 0x00007ff905c29835 UE4Editor-EditorAnalyticsSession.dll!UnknownFunction []
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8c1d48407 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8c2870f9b UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8b8f59ccd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8b8f591f3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8b979f210 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7e78a2c2d UE4Editor.exe!UnknownFunction []
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8b976ca07 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7e78bc260 UE4Editor.exe!UnknownFunction []
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7e78bc4ca UE4Editor.exe!UnknownFunction []
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7e78cceae UE4Editor.exe!UnknownFunction []
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7e78cfcbe UE4Editor.exe!UnknownFunction []
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: [Callstack] 0x00007ff920947bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: [Callstack] 0x00007ff920beced1 ntdll.dll!UnknownFunction []
+[2020.04.05-15.59.26:778][  0]LogOutputDevice: Error: 
+[2020.04.05-15.59.26:783][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2020.04.05-15.59.45:355][  0]LogStats:                    SendNewReport - 18.572 s
+[2020.04.05-15.59.45:355][  0]LogStats:             FDebug::EnsureFailed - 19.474 s
+[2020.04.05-15.59.45:468][  0]LogInit: Transaction tracking system initialized
+[2020.04.05-15.59.45:478][  0]BlueprintLog: New page: Editor Load
+[2020.04.05-15.59.45:508][  0]LocalizationService: Localization service is disabled
+[2020.04.05-15.59.46:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/' took 0.08s
+[2020.04.05-15.59.46:174][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.05-15.59.46:174][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.05-15.59.49:297][  0]SourceControl: Source control is disabled
+[2020.04.05-15.59.49:350][  0]Cmd: MAP LOAD FILE="C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Maps/PatfindingLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.05-15.59.49:450][  0]LightingResults: New page: Lighting Build
+[2020.04.05-15.59.49:816][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-15.59.49:886][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-15.59.49:951][  0]MapCheck: New page: Map Check
+[2020.04.05-15.59.49:951][  0]LightingResults: New page: Lighting Build
+[2020.04.05-15.59.50:753][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.04.05-15.59.53:037][  0]LogAIModule: Creating AISystem for world PatfindingLevel
+[2020.04.05-15.59.54:402][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.05-15.59.54:709][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.04.05-15.59.54:750][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.05-15.59.54:750][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2020.04.05-15.59.54:750][  0]LogFileHelpers: Loading map 'PatfindingLevel' took 5.420
+[2020.04.05-15.59.58:914][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-15.59.58:973][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-15.59.58:981][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-15.59.58:988][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-15.59.59:212][  0]LogCollectionManager: Loaded 0 collections in 0.001115 seconds
+[2020.04.05-15.59.59:476][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Collections/' took 0.00s
+[2020.04.05-15.59.59:476][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Developers/Mike/Collections/' took 0.00s
+[2020.04.05-15.59.59:476][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Collections/' took 0.00s
+[2020.04.05-15.59.59:477][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 3015 classes and 717 folders.
+[2020.04.05-15.59.59:907][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.05-16.00.02:455][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.05-16.00.02:703][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.04.05-16.00.05:369][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.05-16.00.05:457][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.05-16.00.05:897][  0]LogSlate: Took 0.110215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.05-16.00.07:539][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.04.05-16.00.11:843][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.05-16.00.11:843][  0]LogLoad: (Engine Initialization) Total time: 142.50 seconds
+[2020.04.05-16.00.11:843][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.05-16.00.12:196][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.05-16.00.12:201][  0]LogTemp: Resetting audio stream to device id 
+[2020.04.05-16.00.12:224][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-16.00.12:224][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.04.05-16.00.12:224][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-16.00.12:224][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-16.00.12:224][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.05-16.00.12:224][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.05-16.00.12:224][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.05-16.00.12:224][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-16.00.12:224][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-16.00.12:581][  0]LogSlate: Took 0.050223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.05-16.00.17:044][ 38]LogAssetRegistry: Asset discovery search completed in 102.1067 seconds
+[2020.04.05-16.00.17:210][ 38]LogCollectionManager: Fixed up redirectors for 0 collections in 0.016474 seconds (updated 0 objects)
+[2020.04.05-16.00.49:003][979]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.05-16.00.49:024][979]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.05-16.00.49:803][979]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.04.05-16.00.52:427][979]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.05-16.00.53:013][980]LogSlate: Took 0.014088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.05-16.01.12:179][919]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.05-16.01.12:182][919]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.05-16.01.55:637][318]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-16.01.55:637][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-16.07.21:513][198]LogAssetEditorSubsystem: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/Blueprints/TowerUpgrade/Towers.Towers
+[2020.04.05-16.07.52:237][886]LogSlate: Window 'Towers' being destroyed
+[2020.04.05-16.07.52:245][886]LogSlate: Window 'Towers' being destroyed
+[2020.04.05-16.07.52:367][886]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-16.07.52:367][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-16.07.52:395][886]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-16.07.52:395][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-16.08.15:969][274]LogAssetEditorSubsystem: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/Blueprints/TowerUpgrade/Towers.Towers
+[2020.04.05-16.08.58:819][614]LogSlate: Window 'Towers' being destroyed
+[2020.04.05-16.09.34:403][399]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.05-16.09.38:504][638]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.05-16.09.43:123][906]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.05-16.09.47:048][131]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.05-16.09.50:181][313]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.05-16.10.52:996][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TowerUpgrade/Towers" FILE="C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Blueprints/TowerUpgrade/Towers.uasset" SILENT=true
+[2020.04.05-16.10.53:233][972]LogSavePackage: Moving 'C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Towers3FA3BED941F7301D1CF369A0C358853A.tmp' to 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Blueprints/TowerUpgrade/Towers.uasset'
+[2020.04.05-16.10.53:299][972]AssetCheck: New page: Asset Save: Towers
+[2020.04.05-16.10.53:299][972]LogContentValidation: Display: Validating EditorUtilityWidgetBlueprint /Game/Blueprints/TowerUpgrade/Towers.Towers
+[2020.04.05-16.12.47:014][  4]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2020.04.05-16.12.47:015][  4]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PatfindingLevel' took 0.645
+[2020.04.05-16.12.47:018][  4]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TowerUpgrade/Towers] ([1] browsable assets)...
+[2020.04.05-16.12.47:033][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TowerUpgrade/Towers]
+[2020.04.05-16.12.47:096][  4]LogSavePackage: Moving 'C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Towers_Auto1A5CF518C4AD30D9BA2665F935CA37C75.tmp' to 'C:/Users/Mike/Documents/GitHub/GridReposioty/Saved/Autosaves/Game/Blueprints/TowerUpgrade/Towers_Auto1.uasset'
+[2020.04.05-16.12.47:097][  4]LogFileHelpers: Auto-saving content packages took 0.080
+[2020.04.05-16.15.31:557][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:557][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:561][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:561][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:562][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerProjectile.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:562][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerProjectile.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:563][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerProjectile.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:563][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerProjectile.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:563][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerProjectile.uasset' failed to load '/Game/StarterContent/Shapes/Shape_Cube': Can't find file.
+[2020.04.05-16.15.31:564][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerProjectile.uasset' failed to load '/Game/StarterContent/Shapes/Shape_Cube': Can't find file.
+[2020.04.05-16.15.31:564][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerProjectile.uasset' failed to load '/Game/StarterContent/Shapes/Shape_Cube': Can't find file.
+[2020.04.05-16.15.31:565][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerProjectile.uasset' failed to load '/Game/StarterContent/Shapes/Shape_Cube': Can't find file.
+[2020.04.05-16.15.31:566][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:566][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:566][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:566][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:566][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:567][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:567][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/StarterContent/Shapes/Shape_Cube': Can't find file.
+[2020.04.05-16.15.31:567][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/StarterContent/Shapes/Shape_Cube': Can't find file.
+[2020.04.05-16.15.31:567][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/StarterContent/Shapes/Shape_Cube': Can't find file.
+[2020.04.05-16.15.31:567][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/StarterContent/Shapes/Shape_Cube': Can't find file.
+[2020.04.05-16.15.31:568][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:568][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by TowerProjectile
+[2020.04.05-16.15.31:568][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:580][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:580][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_VariableGet_0
+[2020.04.05-16.15.31:580][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:581][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:581][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_VariableGet_5
+[2020.04.05-16.15.31:581][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:582][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/StarterContent/Shapes/Shape_Cube': Can't find file.
+[2020.04.05-16.15.31:582][557]LoadErrors: Failed to load /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube Referenced by ProjectileMesh_GEN_VARIABLE
+[2020.04.05-16.15.31:582][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/StarterContent/Shapes/Shape_Cube': Can't find file.
+[2020.04.05-16.15.31:613][557]LogBlueprint: Error: [Compiler TowerProjectile] In use pin  Target Runner  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:613][557]LogBlueprint: Error: [Compiler TowerProjectile] In use pin  Target Runner  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:629][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerDataTable.uasset' failed to load '/Game/StarterContent/Particles/P_Explosion': Can't find file.
+[2020.04.05-16.15.31:629][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerDataTable.uasset' failed to load '/Game/StarterContent/Particles/P_Explosion': Can't find file.
+[2020.04.05-16.15.31:629][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerDataTable.uasset' failed to load '/Game/StarterContent/Particles/P_Sparks': Can't find file.
+[2020.04.05-16.15.31:629][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerDataTable.uasset' failed to load '/Game/StarterContent/Particles/P_Sparks': Can't find file.
+[2020.04.05-16.15.31:629][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerDataTable.uasset' failed to load '/Game/StarterContent/Shapes/Shape_Cone': Can't find file.
+[2020.04.05-16.15.31:630][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerDataTable.uasset' failed to load '/Game/StarterContent/Shapes/Shape_Cone': Can't find file.
+[2020.04.05-16.15.31:632][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerDataTable.uasset' failed to load '/Game/StarterContent/Particles/P_Explosion': Can't find file.
+[2020.04.05-16.15.31:632][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerDataTable.uasset' failed to load '/Game/StarterContent/Particles/P_Explosion': Can't find file.
+[2020.04.05-16.15.31:632][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerDataTable.uasset' failed to load '/Game/StarterContent/Particles/P_Sparks': Can't find file.
+[2020.04.05-16.15.31:632][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerDataTable.uasset' failed to load '/Game/StarterContent/Particles/P_Sparks': Can't find file.
+[2020.04.05-16.15.31:632][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerDataTable.uasset' failed to load '/Game/StarterContent/Shapes/Shape_Cone': Can't find file.
+[2020.04.05-16.15.31:633][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerDataTable.uasset' failed to load '/Game/StarterContent/Shapes/Shape_Cone': Can't find file.
+[2020.04.05-16.15.31:634][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:634][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/TowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:637][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:637][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:637][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:637][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:637][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:638][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:638][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:638][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by TowerBP
+[2020.04.05-16.15.31:638][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:640][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:640][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_DynamicCast_0
+[2020.04.05-16.15.31:640][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:640][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:641][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:641][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:641][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_SpawnActorFromClass_0
+[2020.04.05-16.15.31:641][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:642][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:642][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_VariableSet_1
+[2020.04.05-16.15.31:642][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:642][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:642][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:642][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:643][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_VariableGet_9
+[2020.04.05-16.15.31:643][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:643][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:643][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_VariableGet_4
+[2020.04.05-16.15.31:643][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:644][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:644][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_VariableGet_8
+[2020.04.05-16.15.31:644][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:644][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:644][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_VariableGet_3
+[2020.04.05-16.15.31:645][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:645][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:645][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_VariableSet_5
+[2020.04.05-16.15.31:645][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:645][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:645][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:646][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:646][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_CallFunction_13
+[2020.04.05-16.15.31:647][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:647][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:647][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_VariableSet_4
+[2020.04.05-16.15.31:647][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:647][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:647][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:648][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:648][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_VariableGet_11
+[2020.04.05-16.15.31:648][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:649][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:649][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_FunctionEntry_0
+[2020.04.05-16.15.31:649][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:650][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:650][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:651][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:651][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:651][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:651][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_VariableSet_0
+[2020.04.05-16.15.31:651][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:651][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:652][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:652][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:652][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:652][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:653][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_VariableSet_3
+[2020.04.05-16.15.31:653][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:653][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:653][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:653][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:653][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_FunctionResult_0
+[2020.04.05-16.15.31:653][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:654][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:654][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:654][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:654][557]LoadErrors: Failed to load /Game/AI/AIRunner.AIRunner_C Referenced by K2Node_FunctionResult_1
+[2020.04.05-16.15.31:654][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:654][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:655][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:655][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:655][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/AI/AIRunner': Can't find file.
+[2020.04.05-16.15.31:681][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/StarterContent/Particles/P_Explosion': Can't find file.
+[2020.04.05-16.15.31:682][557]LoadErrors: Failed to load /Game/StarterContent/Particles/P_Explosion.P_Explosion Referenced by TowerDataTable
+[2020.04.05-16.15.31:682][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/StarterContent/Particles/P_Explosion': Can't find file.
+[2020.04.05-16.15.31:682][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/StarterContent/Particles/P_Sparks': Can't find file.
+[2020.04.05-16.15.31:682][557]LoadErrors: Failed to load /Game/StarterContent/Particles/P_Sparks.P_Sparks Referenced by TowerDataTable
+[2020.04.05-16.15.31:683][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/StarterContent/Particles/P_Sparks': Can't find file.
+[2020.04.05-16.15.31:683][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/StarterContent/Shapes/Shape_Cone': Can't find file.
+[2020.04.05-16.15.31:683][557]LoadErrors: Failed to load /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone Referenced by TowerDataTable
+[2020.04.05-16.15.31:683][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/StarterContent/Shapes/Shape_Cone': Can't find file.
+[2020.04.05-16.15.31:705][557]LogBlueprint: Error: [Compiler TowerBP] In use pin  Tower Target  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:705][557]LogBlueprint: Error: [Compiler TowerBP] In use pin  Tower Target  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:705][557]LogBlueprint: Error: [Compiler TowerBP] In use pin  Tower Target  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:705][557]LogBlueprint: Error: [Compiler TowerBP] In use pin  Tower Target  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:706][557]LogBlueprint: Error: [Compiler TowerBP] In use pin  Tower Target  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:706][557]LogBlueprint: Error: [Compiler TowerBP] In use pin  Tower Target  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:706][557]LogBlueprint: Error: [Compiler TowerBP] In use pin  Tower Target  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:724][557]LogBlueprint: Error: [Compiler TowerBP] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.04.05-16.15.31:724][557]LogBlueprint: Error: [Compiler TowerBP] In use pin  As AIRunner  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:724][557]LogBlueprint: Error: [Compiler TowerBP] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.04.05-16.15.31:726][557]LogBlueprint: Error: [Compiler TowerBP] Can't connect pins  Hit Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.04.05-16.15.31:726][557]LogBlueprint: Error: [Compiler TowerBP] Can't connect pins  Object  and  Hit Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.04.05-16.15.31:727][557]LogBlueprint: Error: [Compiler TowerBP] In use pin  As AIRunner  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:727][557]LogBlueprint: Error: [Compiler TowerBP] In use pin  Temp Target  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:727][557]LogBlueprint: Error: [Compiler TowerBP] In use pin  Temp Target  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:727][557]LogBlueprint: Error: [Compiler TowerBP] In use pin  Temp Target  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:727][557]LogBlueprint: Error: [Compiler TowerBP] In use pin  Temp Target  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:732][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:732][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:734][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/Geometry/Meshes/1M_Cube': Can't find file.
+[2020.04.05-16.15.31:735][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/Geometry/Meshes/1M_Cube': Can't find file.
+[2020.04.05-16.15.31:736][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:736][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:736][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/Geometry/Meshes/1M_Cube': Can't find file.
+[2020.04.05-16.15.31:736][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/Tower/BuilderTowerBP.uasset' failed to load '/Game/Geometry/Meshes/1M_Cube': Can't find file.
+[2020.04.05-16.15.31:737][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:738][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:738][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:738][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:738][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Geometry/Meshes/1M_Cube': Can't find file.
+[2020.04.05-16.15.31:738][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Geometry/Meshes/1M_Cube': Can't find file.
+[2020.04.05-16.15.31:739][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:739][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:739][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Geometry/Meshes/1M_Cube': Can't find file.
+[2020.04.05-16.15.31:739][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Geometry/Meshes/1M_Cube': Can't find file.
+[2020.04.05-16.15.31:742][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:742][557]LoadErrors: Failed to load /Game/TowerDefenseGameMode.TowerDefenseGameMode_C Referenced by K2Node_DynamicCast_2
+[2020.04.05-16.15.31:743][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:743][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:743][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:743][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:743][557]LoadErrors: Failed to load /Game/TowerDefenseGameMode.TowerDefenseGameMode_C Referenced by K2Node_CallFunction_19
+[2020.04.05-16.15.31:743][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:744][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:744][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:744][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:744][557]LoadErrors: Failed to load /Game/TowerDefenseGameMode.TowerDefenseGameMode_C Referenced by K2Node_DynamicCast_0
+[2020.04.05-16.15.31:744][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:744][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:744][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:745][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:745][557]LoadErrors: Failed to load /Game/TowerDefenseGameMode.TowerDefenseGameMode_C Referenced by K2Node_VariableGet_4
+[2020.04.05-16.15.31:745][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:745][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:745][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/TowerDefenseGameMode': Can't find file.
+[2020.04.05-16.15.31:746][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Geometry/Meshes/1M_Cube': Can't find file.
+[2020.04.05-16.15.31:746][557]LoadErrors: Failed to load /Game/Geometry/Meshes/1M_Cube.1M_Cube Referenced by GhostMesh_GEN_VARIABLE
+[2020.04.05-16.15.31:746][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Geometry/Meshes/1M_Cube': Can't find file.
+[2020.04.05-16.15.31:788][557]LogBlueprint: Warning: [Compiler BuilderTowerBP] Could not find a variable named "Money" in 'BuilderTowerBP'.
+Make sure 'BuilderTowerBP' has been compiled for  Get Money
+[2020.04.05-16.15.31:788][557]LogBlueprint: Error: [Compiler BuilderTowerBP] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.04.05-16.15.31:788][557]LogBlueprint: Error: [Compiler BuilderTowerBP] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.04.05-16.15.31:788][557]LogBlueprint: Error: [Compiler BuilderTowerBP] In use pin  As Tower Defense Game Mode  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:788][557]LogBlueprint: Error: [Compiler BuilderTowerBP] In use pin  <Unnamed>  no longer exists on node  Decrease Money . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:788][557]LogBlueprint: Error: [Compiler BuilderTowerBP] In use pin  <Unnamed>  no longer exists on node  Decrease Money . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:789][557]LogBlueprint: Error: [Compiler BuilderTowerBP] In use pin  Target  no longer exists on node  Decrease Money . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:789][557]LogBlueprint: Error: [Compiler BuilderTowerBP] In use pin  Sub  no longer exists on node  Decrease Money . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:789][557]LogBlueprint: Error: [Compiler BuilderTowerBP] Could not find a function named "DecreaseMoney" in 'BuilderTowerBP'.
+Make sure 'BuilderTowerBP' has been compiled for  Decrease Money
+[2020.04.05-16.15.31:789][557]LogBlueprint: Error: [Compiler BuilderTowerBP] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.04.05-16.15.31:789][557]LogBlueprint: Error: [Compiler BuilderTowerBP] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.04.05-16.15.31:789][557]LogBlueprint: Error: [Compiler BuilderTowerBP] In use pin  As Tower Defense Game Mode  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:791][557]LogBlueprint: Error: [Compiler BuilderTowerBP] The property associated with  Money  could not be found in '/Game/Tower/BuilderTowerBP.BuilderTowerBP_C'
+[2020.04.05-16.15.31:795][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:795][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:795][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:795][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:795][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:796][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:797][557]LogLinker: Warning: Failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:797][557]LogLinker: Warning: Failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:798][557]LogLinker: Warning: Failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:798][557]LogLinker: Warning: Failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:798][557]LogLinker: Warning: Failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:798][557]LogLinker: Warning: Failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:798][557]LogLinker: Warning: Failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:798][557]LogLinker: Warning: Failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:798][557]LogLinker: Warning: Failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:798][557]LogLinker: Warning: Failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:799][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:799][557]LoadErrors: Failed to load /Game/Player/PlayerCameraPawn.PlayerCameraPawn_C Referenced by TowerSelectionWidget
+[2020.04.05-16.15.31:799][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:802][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:802][557]LoadErrors: Failed to load /Game/Player/PlayerCameraPawn.PlayerCameraPawn_C Referenced by K2Node_VariableGet_0
+[2020.04.05-16.15.31:803][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:803][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:803][557]LoadErrors: Failed to load /Game/Player/PlayerCameraPawn.PlayerCameraPawn_C Referenced by K2Node_VariableSet_1
+[2020.04.05-16.15.31:803][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:803][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:803][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:804][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:804][557]LoadErrors: Failed to load /Game/Player/PlayerCameraPawn.PlayerCameraPawn_C Referenced by K2Node_VariableGet_4
+[2020.04.05-16.15.31:804][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:805][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:805][557]LoadErrors: Failed to load /Game/Player/PlayerCameraPawn.PlayerCameraPawn_C Referenced by K2Node_VariableSet_7
+[2020.04.05-16.15.31:805][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:805][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:806][557]LogLinker: Warning: While loading 'C:/Users/Mike/Documents/GitHub/GridReposioty/Content/UI/TowerSelectionWidget.uasset' failed to load '/Game/Player/PlayerCameraPawn': Can't find file.
+[2020.04.05-16.15.31:818][557]LogBlueprint: Warning: [Compiler TowerSelectionWidget] Could not find a variable named "WidgetReference" in 'TowerSelectionWidget'.
+Make sure 'TowerSelectionWidget' has been compiled for  Set WidgetReference
+[2020.04.05-16.15.31:818][557]LogBlueprint: Error: [Compiler TowerSelectionWidget] In use pin  Player Reference  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:818][557]LogBlueprint: Warning: [Compiler TowerSelectionWidget] Could not find a variable named "BuilderTowerReference" in 'TowerSelectionWidget'.
+Make sure 'TowerSelectionWidget' has been compiled for  Set BuilderTowerReference
+[2020.04.05-16.15.31:818][557]LogBlueprint: Error: [Compiler TowerSelectionWidget] In use pin  Player Reference  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.04.05-16.15.31:818][557]LogBlueprint: Error: [Compiler TowerSelectionWidget] The property associated with  Widget Reference  could not be found in '/Game/UI/TowerSelectionWidget.TowerSelectionWidget_C'
+[2020.04.05-16.15.31:819][557]LogBlueprint: Error: [Compiler TowerSelectionWidget] The property associated with  Builder Tower Reference  could not be found in '/Game/UI/TowerSelectionWidget.TowerSelectionWidget_C'
+[2020.04.05-16.15.31:968][557]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/TowerSelectionWidget.TowerSelectionWidget
+[2020.04.05-16.19.22:519][892]LogSlate: Took 0.022673 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.05-16.21.33:275][745]LogBlueprint: Warning: [Compiler PlayerCameraPawn] InputAction Event references unknown Action 'RightClick' for  InputAction RightClick
+[2020.04.05-16.21.33:275][745]LogBlueprint: Warning: [Compiler PlayerCameraPawn] InputAction Event references unknown Action 'WidgetPress' for  InputAction WidgetPress
+[2020.04.05-16.21.33:275][745]LogBlueprint: Warning: [Compiler PlayerCameraPawn] InputAction Event references unknown Action 'LeftClick' for  InputAction LeftClick
+[2020.04.05-16.22.48:847][138]LogEditorTransaction: Undo Move Node
+[2020.04.05-16.22.49:095][138]LogEditorTransaction: Undo Move Node
+[2020.04.05-16.22.49:234][141]LogEditorTransaction: Undo Move Node
+[2020.04.05-16.22.49:400][145]LogEditorTransaction: Undo Add Node
+[2020.04.05-16.22.49:812][167]LogEditorTransaction: Undo Delete current selection
+[2020.04.05-16.23.01:214][848]LogEditorTransaction: Undo Move Node
+[2020.04.05-16.23.01:799][865]LogEditorTransaction: Undo Delete current selection
+[2020.04.05-16.28.01:698][401]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-16.28.01:698][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-16.28.01:728][401]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-16.28.01:728][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-16.28.02:080][419]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-16.28.02:080][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-16.28.02:097][419]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-16.28.02:097][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-16.28.24:013][598]MapCheck: New page: Map Check
+[2020.04.05-16.28.24:146][598]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.05-16.28.24:193][598]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.05-16.28.24:296][598]LogWorld: UWorld::CleanupWorld for PatfindingLevel, bSessionEnded=true, bCleanupResources=false
+[2020.04.05-16.28.24:679][598]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2020.04.05-16.28.24:744][598]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.05-16.28.24:885][598]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.05-16.28.24:885][598]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.05-16.28.24:885][598]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.05-16.28.24:900][598]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.05-16.28.24:916][598]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.05-16.28.24:932][598]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.05-16.28.27:497][598]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.04.05-16.28.27:497][598]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.05-16.28.27:497][598]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.04.05-16.28.27:498][598]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.04.05-16.28.27:498][598]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.04.05-16.28.27:498][598]LogShaderCompilers: Warning: Failed to compile Material  for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.05-16.28.27:498][598]LogShaderCompilers: Display: /Engine/Generated/GeneratedInstancedStereo.ush(71,30):  err0r X3093: out of memory while parsing
+[2020.04.05-16.28.27:498][598]LogShaderCompilers: Display: /Engine/Private/CommonViewUniformBuffer.ush(26,2-7):  err0r X3093: out of memory while parsing
+[2020.04.05-16.28.27:498][598]LogShaderCompilers: Display: /Engine/Private/LocalVertexFactory.ush(1,10):  err0r X1500: syntax err0r : unexpected token '"'
+[2020.04.05-16.28.27:587][598]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.05-16.28.27:587][598]LogShaderCompilers: Warning: Failed to compile Material  for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.05-16.28.27:587][598]LogShaderCompilers: Display: /Engine/Generated/Material.ush(1209,34-37):  err0r X3093: out of memory while parsing
+[2020.04.05-16.28.27:587][598]LogShaderCompilers: Display: out of memory during compilation
+[2020.04.05-16.28.27:743][598]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.05-16.28.27:743][598]LogShaderCompilers: Warning: Failed to compile Material  for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.05-16.28.27:743][598]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.05-16.28.27:743][598]LogShaderCompilers: Display: /Engine/Generated/GeneratedInstancedStereo.ush(210,79):  err0r X3093: out of memory while parsing
+[2020.04.05-16.28.27:743][598]LogShaderCompilers: Display: /Engine/Generated/GeneratedInstancedStereo.ush(518,10):  err0r X1500: syntax err0r : unexpected token '"'
+[2020.04.05-16.28.27:743][598]LogShaderCompilers: Display: /Engine/Generated/GeneratedInstancedStereo.ush(22,10):  err0r X1500: syntax err0r : unexpected token '"'
+[2020.04.05-16.28.28:030][598]TextureStreamingBuild: Display: Compiling optional shaders took 3.314 seconds.
+[2020.04.05-16.28.28:089][598]LogLevel: Display: Export Material TexCoord Scales took 0.059 seconds.
+[2020.04.05-16.28.28:138][598]TextureStreamingBuild: Display: Build Texture Streaming took 0.037 seconds.
+[2020.04.05-16.28.28:172][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.05-16.28.28:300][598]LightingResults: New page: Lighting Build - Apr 5, 2020, 8:28:28 AM
+[2020.04.05-16.28.28:805][598]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.05-16.28.29:212][598]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.05-16.28.29:261][598]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.05-16.28.33:317][598]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2020.04.05-16.28.33:439][598]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2020.04.05-16.28.42:443][598]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2020.04.05-16.28.42:443][598]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2020.04.05-16.28.51:453][598]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2020.04.05-16.28.51:453][598]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2020.04.05-16.29.00:461][598]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2020.04.05-16.29.00:461][598]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2020.04.05-16.29.09:466][598]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2020.04.05-16.29.09:466][598]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
